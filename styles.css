@@ -154,9 +154,17 @@ a:active { color: var(--link-active) }
 
 .texture > a > img {
     width: 96px;
-    height: 96px;
 }
+
+.texture > a {
+    width: 96px;
+    height: 96px;
+    overflow: hidden;
+}
+
 
 .texture > span {
     text-align: center;
 }
+
+
