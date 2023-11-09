@@ -1,6 +1,10 @@
 name: Prepare for Deployment
 
-on: [push] # This will trigger the action on every push to the repository.
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch
+  
 
 jobs:
   build-and-deploy:
@@ -27,9 +31,7 @@ jobs:
       run: |
           git add index.html
           git add textures.json
-    - name: Commit and push if there are changes
-      run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
-        git commit -m "Prepare for deployment" || echo "No changes to commit"
-        git push || echo "No changes to push"
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Generate site
+
