@@ -8283,5 +8283,66 @@
         </div>
         
       </div>
+
+      <script>
+        // flipbook images
+        const images = document.querySelectorAll('#Animated_Textures > .texture > a > img'); // Get the image element
+function flipBookAnimation(elements) {
+  // Define the height to move each flip
+  const moveHeight = -96;
+
+  // Function to move an element to the next frame
+  const moveToNextFrame = (element, frameIndex) => {
+    // Calculate the new Y position
+    const newYPosition = moveHeight * frameIndex;
+    // Instantly move the element to the new position
+    element.style.transform = `translateY(${newYPosition}px)`;
+  };
+
+  // Initialize an interval ID for each element
+  const intervalIds = new WeakMap();
+
+  elements.forEach((element) => {
+    // Handle hover start
+    element.addEventListener('mouseenter', () => {
+      let frameIndex = 0;
+
+      // Clear any existing intervals to avoid duplicates
+      if (intervalIds.has(element)) {
+        clearInterval(intervalIds.get(element));
+      }
+
+      // Set an interval for each element to flip through frames
+      const intervalId = setInterval(() => {
+        frameIndex++;
+        moveToNextFrame(element, frameIndex);
+
+        // If the last frame has been reached, reset the frame index to repeat the animation
+        if ((frameIndex + 1) * -moveHeight >= element.scrollHeight) {
+          frameIndex = -1; // This will be incremented to 0 in the next interval tick
+        }
+      }, 100); // Change frame every 300ms
+
+      // Store the interval ID
+      intervalIds.set(element, intervalId);
+    });
+
+    // Handle hover end
+    element.addEventListener('mouseleave', () => {
+      // Clear the interval when not hovering
+      if (intervalIds.has(element)) {
+        clearInterval(intervalIds.get(element));
+        intervalIds.delete(element);
+        element.style.transform = 'translateY(0px)'; // Reset position
+      }
+    });
+  });
+}
+
+        // Then, call the flipBookAnimation function with the selected elements
+        flipBookAnimation(images);
+
+
+      </script>
   </body>
 </html>
