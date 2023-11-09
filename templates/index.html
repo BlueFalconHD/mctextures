@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="templates/styles.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      function searchTextures() {
+        var input, filter, textures, txtValue;
+        input = document.getElementById('searchInput');
+        filter = input.value.toUpperCase();
+        textures = document.getElementsByClassName('texture');
+
+        // Loop through all textures, and hide those who don't match the search query
+        for (i = 0; i < textures.length; i++) {
+          txtValue = textures[i].textContent || textures[i].innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            textures[i].style.display = "";
+          } else {
+            textures[i].style.display = "none";
+          }
+        }
+      }
+    </script>
+  </head>
+  <body>
+      <div class="page-header">
+        <div class="page-header-text">
+          <div class="large-header">Minecraft Texture Index</div>
+          <p class="subheader">Scraped from <a href="https://minecraft.wiki/w/List_of_block_textures">https://minecraft.wiki</a> with 💙</p>
+        </div>
+        
+        <input type="text" id="searchInput" onkeyup="searchTextures()" placeholder="Search for textures..." class="search">
+      </div>
+      <div class="categories">
+        {% for category, textures in categories.items() %}
+        <div class="category">
+          <div class="category-title">{{ category }}</div>
+            <div id="{{ category | replace(' ', '_') }}" class="textures">
+              {% for texture in textures %}
+                <div class="texture">
+                  <a href="{{ texture.path }}"><img src="{{ texture.path }}" alt="{{ texture.name }}"></a>
+                  <span>{{ texture.name }}</span>
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+      </div>
+  </body>
+</html>
