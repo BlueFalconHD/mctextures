@@ -113,10 +113,9 @@ for e in category_elements:
                 texture_src_url = elem.select_one(".thumb > span > a > img")["src"]
                 
                 if texture_name.text.strip() and texture_src_url:
-                    texture_name = texture_name.text.strip()
                     texture_url = transform_image_url(texture_src_url)
-                    print(f"[{texture_name}]({texture_url})")
-                    items.append(Texture(texture_url, texture_name))
+                    print(f"[{texture_name.text.strip()}]({texture_url})")
+                    items.append(Texture(texture_url, texture_name.text.strip()))
                 else:
                     if not texture_name.text:
                         print(f"One element in section {section_title} has no name.")
