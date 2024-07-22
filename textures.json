@@ -1,1 +1,3550 @@
-{}
+{
+  "Sediment": [
+    {
+      "name": "Grass Block",
+      "path": "https://minecraft.wiki/images/Grass_Block_%28top_texture%29_JE4_BE2.png?08fb2"
+    },
+    {
+      "name": "Mycelium",
+      "path": "https://minecraft.wiki/images/Mycelium_%28top_texture%29_JE2_BE2.png?37535"
+    },
+    {
+      "name": "Podzol",
+      "path": "https://minecraft.wiki/images/Podzol_%28top_texture%29_JE2_BE2.png?299cd"
+    },
+    {
+      "name": "Dirt Path",
+      "path": "https://minecraft.wiki/images/Dirt_Path_%28top_texture%29_JE2_BE2.png?ee73c"
+    },
+    {
+      "name": "Farmland",
+      "path": "https://minecraft.wiki/images/Farmland_%28dry_texture%29_JE2_BE2.png?2759f"
+    },
+    {
+      "name": "Dirt",
+      "path": "https://minecraft.wiki/images/Dirt_%28texture%29_JE2_BE2.png?ad858"
+    },
+    {
+      "name": "Coarse Dirt",
+      "path": "https://minecraft.wiki/images/Coarse_Dirt_%28texture%29_JE1_BE1.png?11fe9"
+    },
+    {
+      "name": "Rooted Dirt",
+      "path": "https://minecraft.wiki/images/Rooted_Dirt_%28texture%29_JE1_BE1.png?8a17b"
+    },
+    {
+      "name": "Crimson Nylium",
+      "path": "https://minecraft.wiki/images/Crimson_Nylium_%28top_texture%29_JE1_BE1.png?a40dd"
+    },
+    {
+      "name": "Warped Nylium",
+      "path": "https://minecraft.wiki/images/Warped_Nylium_%28top_texture%29_JE1_BE1.png?1c980"
+    },
+    {
+      "name": "Mud",
+      "path": "https://minecraft.wiki/images/Mud_%28texture%29_JE1_BE1.png?ec496"
+    },
+    {
+      "name": "Clay",
+      "path": "https://minecraft.wiki/images/Clay_%28texture%29_JE2_BE2.png?d17a9"
+    },
+    {
+      "name": "Gravel",
+      "path": "https://minecraft.wiki/images/Gravel_%28texture%29_JE5_BE4.png?3bafd"
+    },
+    {
+      "name": "Sand",
+      "path": "https://minecraft.wiki/images/Sand_%28texture%29_JE5_BE3.png?419fc"
+    },
+    {
+      "name": "Red Sand",
+      "path": "https://minecraft.wiki/images/Red_Sand_%28texture%29_JE3_BE2.png?f9cea"
+    },
+    {
+      "name": "Soul Sand",
+      "path": "https://minecraft.wiki/images/Soul_Sand_%28texture%29_JE2_BE2.png?a21ae"
+    },
+    {
+      "name": "Soul Soil",
+      "path": "https://minecraft.wiki/images/Soul_Soil_%28texture%29_JE1_BE1.png?07be4"
+    },
+    {
+      "name": "Snow",
+      "path": "https://minecraft.wiki/images/Snow_%28texture%29_JE2_BE2.png?d2aab"
+    },
+    {
+      "name": "Powder Snow",
+      "path": "https://minecraft.wiki/images/Powder_Snow_%28texture%29_JE1_BE1.png?81cd6"
+    },
+    {
+      "name": "Ice",
+      "path": "https://minecraft.wiki/images/Ice_%28texture%29_JE2_BE6.png?ba710"
+    },
+    {
+      "name": "Packed Ice",
+      "path": "https://minecraft.wiki/images/Packed_Ice_%28texture%29_JE2_BE3.png?25b7b"
+    },
+    {
+      "name": "Blue Ice",
+      "path": "https://minecraft.wiki/images/Blue_Ice_%28texture%29_JE1_BE1.png?a238e"
+    },
+    {
+      "name": "Frosted Ice",
+      "path": "https://minecraft.wiki/images/Frosted_Ice_Age_0_%28texture%29_JE2_BE2.png?5c946"
+    }
+  ],
+  "Stone": [
+    {
+      "name": "Stone",
+      "path": "https://minecraft.wiki/images/Stone_%28texture%29_JE5_BE3.png?8d399"
+    },
+    {
+      "name": "Cobblestone",
+      "path": "https://minecraft.wiki/images/Cobblestone_%28texture%29_JE5_BE3.png?b1939"
+    },
+    {
+      "name": "Mossy Cobblestone",
+      "path": "https://minecraft.wiki/images/Mossy_Cobblestone_%28texture%29_JE4_BE3.png?c5973"
+    },
+    {
+      "name": "Smooth Stone",
+      "path": "https://minecraft.wiki/images/Smooth_Stone_%28texture%29_JE2_BE2.png?4570d"
+    },
+    {
+      "name": "Smooth Stone Slab",
+      "path": "https://minecraft.wiki/images/Smooth_Stone_Slab_%28side_texture%29_JE2_BE2.png?8654a"
+    },
+    {
+      "name": "Stone Bricks",
+      "path": "https://minecraft.wiki/images/Stone_Bricks_%28texture%29_JE3_BE2.png?427b8"
+    },
+    {
+      "name": "Cracked Stone Bricks",
+      "path": "https://minecraft.wiki/images/Cracked_Stone_Bricks_%28texture%29_JE3_BE2.png?1b514"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "path": "https://minecraft.wiki/images/Chiseled_Stone_Bricks_%28texture%29_JE3_BE2.png?86a8d"
+    },
+    {
+      "name": "Mossy Stone Bricks",
+      "path": "https://minecraft.wiki/images/Mossy_Stone_Bricks_%28texture%29_JE3_BE2.png?9f57b"
+    },
+    {
+      "name": "Granite",
+      "path": "https://minecraft.wiki/images/Granite_%28texture%29_JE2_BE2.png?21726"
+    },
+    {
+      "name": "Polished Granite",
+      "path": "https://minecraft.wiki/images/Polished_Granite_%28texture%29_JE2_BE2.png?b5800"
+    },
+    {
+      "name": "Diorite",
+      "path": "https://minecraft.wiki/images/Diorite_%28texture%29_JE4_BE3.png?a9d6f"
+    },
+    {
+      "name": "Polished Diorite",
+      "path": "https://minecraft.wiki/images/Polished_Diorite_%28texture%29_JE2_BE2.png?cbc7b"
+    },
+    {
+      "name": "Andesite",
+      "path": "https://minecraft.wiki/images/Andesite_%28texture%29_JE3_BE2.png?8940a"
+    },
+    {
+      "name": "Polished Andesite",
+      "path": "https://minecraft.wiki/images/Polished_Andesite_%28texture%29_JE2_BE2.png?b9691"
+    },
+    {
+      "name": "Deepslate",
+      "path": "https://minecraft.wiki/images/Deepslate_%28top_texture%29_JE2.png?7c784"
+    },
+    {
+      "name": "Cobbled Deepslate",
+      "path": "https://minecraft.wiki/images/Cobbled_Deepslate_%28texture%29_JE2.png?bde4d"
+    },
+    {
+      "name": "Chiseled Deepslate",
+      "path": "https://minecraft.wiki/images/Chiseled_Deepslate_%28texture%29_JE2.png?75aec"
+    },
+    {
+      "name": "Polished Deepslate",
+      "path": "https://minecraft.wiki/images/Polished_Deepslate_%28texture%29_JE2.png?4f42b"
+    },
+    {
+      "name": "Deepslate Bricks",
+      "path": "https://minecraft.wiki/images/Deepslate_Bricks_%28texture%29_JE2_BE1.png?fbc79"
+    },
+    {
+      "name": "Cracked Deepslate Bricks",
+      "path": "https://minecraft.wiki/images/Cracked_Deepslate_Bricks_%28texture%29_JE1.png?78c91"
+    },
+    {
+      "name": "Deepslate Tiles",
+      "path": "https://minecraft.wiki/images/Deepslate_Tiles_%28texture%29_JE2.png?afdc3"
+    },
+    {
+      "name": "Cracked Deepslate Tiles",
+      "path": "https://minecraft.wiki/images/Cracked_Deepslate_Tiles_%28texture%29_JE1.png?5b2b1"
+    },
+    {
+      "name": "Tuff",
+      "path": "https://minecraft.wiki/images/Tuff_%28texture%29_JE1.png?39035"
+    },
+    {
+      "name": "Chiseled Tuff",
+      "path": "https://minecraft.wiki/images/Chiseled_Tuff_%28texture%29.png?db778"
+    },
+    {
+      "name": "Polished Tuff",
+      "path": "https://minecraft.wiki/images/Polished_Tuff_%28texture%29.png?1e585"
+    },
+    {
+      "name": "Tuff Bricks",
+      "path": "https://minecraft.wiki/images/Tuff_Bricks_%28texture%29.png?e8565"
+    },
+    {
+      "name": "Chiseled Tuff Bricks",
+      "path": "https://minecraft.wiki/images/Chiseled_Tuff_Bricks_%28texture%29.png?06c60"
+    },
+    {
+      "name": "Sandstone",
+      "path": "https://minecraft.wiki/images/Sandstone_%28top_texture%29_JE5_BE2.png?0551d"
+    },
+    {
+      "name": "Chiseled Sandstone",
+      "path": "https://minecraft.wiki/images/Chiseled_Sandstone_%28side_texture%29_JE4_BE2.png?24c22"
+    },
+    {
+      "name": "Cut Sandstone",
+      "path": "https://minecraft.wiki/images/Cut_Sandstone_%28side_texture%29_JE3_BE2.png?73a9c"
+    },
+    {
+      "name": "Red Sandstone",
+      "path": "https://minecraft.wiki/images/Red_Sandstone_%28top_texture%29_JE4_BE2.png?79138"
+    },
+    {
+      "name": "Chiseled Red Sandstone",
+      "path": "https://minecraft.wiki/images/Chiseled_Red_Sandstone_%28side_texture%29_JE3_BE2.png?1cd8a"
+    },
+    {
+      "name": "Cut Red Sandstone",
+      "path": "https://minecraft.wiki/images/Cut_Red_Sandstone_%28side_texture%29_JE3_BE2.png?57d51"
+    },
+    {
+      "name": "Netherrack",
+      "path": "https://minecraft.wiki/images/Netherrack_%28texture%29_JE4_BE3.png?dc5fd"
+    },
+    {
+      "name": "Basalt",
+      "path": "https://minecraft.wiki/images/Basalt_%28top_texture%29_JE1_BE1.png?cc541"
+    },
+    {
+      "name": "Polished Basalt",
+      "path": "https://minecraft.wiki/images/Polished_Basalt_%28top_texture%29_JE1_BE1.png?af433"
+    },
+    {
+      "name": "Smooth Basalt",
+      "path": "https://minecraft.wiki/images/Smooth_Basalt_%28texture%29_JE1.png?aca28"
+    },
+    {
+      "name": "Blackstone",
+      "path": "https://minecraft.wiki/images/Blackstone_%28top_texture%29_JE1_BE1.png?a6660"
+    },
+    {
+      "name": "Gilded Blackstone",
+      "path": "https://minecraft.wiki/images/Gilded_Blackstone_%28texture%29_JE2.png?51a3e"
+    },
+    {
+      "name": "Chiseled Polished Blackstone",
+      "path": "https://minecraft.wiki/images/Chiseled_Polished_Blackstone_%28texture%29_JE1_BE1.png?afe3e"
+    },
+    {
+      "name": "Polished Blackstone",
+      "path": "https://minecraft.wiki/images/Polished_Blackstone_%28texture%29_JE1_BE1.png?44e9b"
+    },
+    {
+      "name": "Polished Blackstone Bricks",
+      "path": "https://minecraft.wiki/images/Polished_Blackstone_Bricks_%28texture%29_JE2_BE2.png?40879"
+    },
+    {
+      "name": "Cracked Polished Blackstone Bricks",
+      "path": "https://minecraft.wiki/images/Cracked_Polished_Blackstone_Bricks_%28texture%29_JE2.png?34579"
+    },
+    {
+      "name": "End Stone",
+      "path": "https://minecraft.wiki/images/End_Stone_%28texture%29_JE3_BE2.png?1ea25"
+    },
+    {
+      "name": "End Stone Bricks",
+      "path": "https://minecraft.wiki/images/End_Stone_Bricks_%28texture%29_JE2_BE2.png?97201"
+    },
+    {
+      "name": "Obsidian",
+      "path": "https://minecraft.wiki/images/Obsidian_%28texture%29_JE3_BE2.png?b44bf"
+    },
+    {
+      "name": "Crying Obsidian",
+      "path": "https://minecraft.wiki/images/Crying_Obsidian_%28texture%29_JE1_BE1.png?4cbff"
+    },
+    {
+      "name": "Glowstone",
+      "path": "https://minecraft.wiki/images/Glowstone_%28texture%29_JE4_BE3.png?67285"
+    },
+    {
+      "name": "Calcite",
+      "path": "https://minecraft.wiki/images/Calcite_%28texture%29_JE2.png?80226"
+    },
+    {
+      "name": "Dripstone Block",
+      "path": "https://minecraft.wiki/images/Dripstone_Block_%28texture%29_JE1.png?6657c"
+    },
+    {
+      "name": "Pointed Dripstone",
+      "path": "https://minecraft.wiki/images/Pointed_Dripstone_Base_%28up_texture%29_JE1.png?2e56c"
+    }
+  ],
+  "Ore": [
+    {
+      "name": "Coal Ore",
+      "path": "https://minecraft.wiki/images/Coal_Ore_%28texture%29_JE5_BE4.png?3deae"
+    },
+    {
+      "name": "Iron Ore",
+      "path": "https://minecraft.wiki/images/Iron_Ore_%28texture%29_JE6_BE4.png?3beff"
+    },
+    {
+      "name": "Gold Ore",
+      "path": "https://minecraft.wiki/images/Gold_Ore_%28texture%29_JE7_BE4.png?6a8a2"
+    },
+    {
+      "name": "Redstone Ore",
+      "path": "https://minecraft.wiki/images/Redstone_Ore_%28texture%29_JE4_BE3.png?1b456"
+    },
+    {
+      "name": "Emerald Ore",
+      "path": "https://minecraft.wiki/images/Emerald_Ore_%28texture%29_JE4_BE3.png?b93c5"
+    },
+    {
+      "name": "Lapis Lazuli Ore",
+      "path": "https://minecraft.wiki/images/Lapis_Lazuli_Ore_%28texture%29_JE4_BE4.png?4f551"
+    },
+    {
+      "name": "Diamond Ore",
+      "path": "https://minecraft.wiki/images/Diamond_Ore_%28texture%29_JE5_BE5.png?15da4"
+    },
+    {
+      "name": "Copper Ore",
+      "path": "https://minecraft.wiki/images/Copper_Ore_%28texture%29_JE2_BE2.png?8d330"
+    },
+    {
+      "name": "Deepslate Coal Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Coal_Ore_%28texture%29_JE1_BE2.png?4d5b5"
+    },
+    {
+      "name": "Deepslate Iron Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Iron_Ore_%28texture%29_JE2_BE1.png?4775b"
+    },
+    {
+      "name": "Deepslate Gold Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Gold_Ore_%28texture%29_JE2_BE1.png?15c50"
+    },
+    {
+      "name": "Deepslate Redstone Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Redstone_Ore_%28texture%29_JE2_BE1.png?90376"
+    },
+    {
+      "name": "Deepslate Emerald Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Emerald_Ore_%28texture%29_JE1_BE1.png?21a5b"
+    },
+    {
+      "name": "Deepslate Lapis Lazuli Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Lapis_Lazuli_Ore_%28texture%29_JE3_BE2.png?9af42"
+    },
+    {
+      "name": "Deepslate Diamond Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Diamond_Ore_%28texture%29_JE2_BE1.png?337ec"
+    },
+    {
+      "name": "Deepslate Copper Ore",
+      "path": "https://minecraft.wiki/images/Deepslate_Copper_Ore_%28texture%29_JE2_BE2.png?be93d"
+    },
+    {
+      "name": "Nether Gold Ore",
+      "path": "https://minecraft.wiki/images/Nether_Gold_Ore_%28texture%29_JE2_BE1.png?ca0b3"
+    },
+    {
+      "name": "Nether Quartz Ore",
+      "path": "https://minecraft.wiki/images/Nether_Quartz_Ore_%28texture%29_JE3_BE2.png?5c6a9"
+    },
+    {
+      "name": "Ancient Debris",
+      "path": "https://minecraft.wiki/images/Ancient_Debris_%28top_texture%29_JE1_BE1.png?7ea45"
+    },
+    {
+      "name": "Block of Raw Iron",
+      "path": "https://minecraft.wiki/images/Block_of_Raw_Iron_%28texture%29_JE3_BE2.png?d3115"
+    },
+    {
+      "name": "Block of Raw Gold",
+      "path": "https://minecraft.wiki/images/Block_of_Raw_Gold_%28texture%29_JE3_BE2.png?24336"
+    },
+    {
+      "name": "Block of Raw Copper",
+      "path": "https://minecraft.wiki/images/Block_of_Raw_Copper_%28texture%29_JE2_BE2.png?28b95"
+    },
+    {
+      "name": "Block of Amethyst",
+      "path": "https://minecraft.wiki/images/Block_of_Amethyst_%28texture%29_JE3_BE1.png?9d27e"
+    },
+    {
+      "name": "Block of Coal",
+      "path": "https://minecraft.wiki/images/Block_of_Coal_%28texture%29_JE3_BE2.png?a9b05"
+    },
+    {
+      "name": "Block of Iron",
+      "path": "https://minecraft.wiki/images/Block_of_Iron_%28texture%29_JE3_BE3.png?00d60"
+    },
+    {
+      "name": "Block of Gold",
+      "path": "https://minecraft.wiki/images/Block_of_Gold_%28texture%29_JE5_BE3.png?19c44"
+    },
+    {
+      "name": "Block of Redstone",
+      "path": "https://minecraft.wiki/images/Block_of_Redstone_%28texture%29_JE2_BE2.png?cc3fd"
+    },
+    {
+      "name": "Block of Emerald",
+      "path": "https://minecraft.wiki/images/Block_of_Emerald_%28texture%29_JE4_BE3.png?8d917"
+    },
+    {
+      "name": "Block of Lapis Lazuli",
+      "path": "https://minecraft.wiki/images/Block_of_Lapis_Lazuli_%28texture%29_JE3_BE3.png?a7b04"
+    },
+    {
+      "name": "Block of Diamond",
+      "path": "https://minecraft.wiki/images/Block_of_Diamond_%28texture%29_JE4_BE3.png?400f4"
+    },
+    {
+      "name": "Block of Netherite",
+      "path": "https://minecraft.wiki/images/Block_of_Netherite_%28texture%29_JE1_BE1.png?2a782"
+    },
+    {
+      "name": "Block of Quartz",
+      "path": "https://minecraft.wiki/images/Block_of_Quartz_%28top_texture%29_JE3_BE3.png?8d063"
+    },
+    {
+      "name": "Smooth Quartz",
+      "path": "https://minecraft.wiki/images/Block_of_Quartz_%28bottom_texture%29_JE2_BE2.png?69785"
+    },
+    {
+      "name": "Chiseled Quartz Block",
+      "path": "https://minecraft.wiki/images/Chiseled_Quartz_Block_%28top_texture%29_JE2_BE2.png?4cdac"
+    },
+    {
+      "name": "Quartz Pillar",
+      "path": "https://minecraft.wiki/images/Quartz_Pillar_%28top_texture%29_JE2_BE2.png?d6bf3"
+    },
+    {
+      "name": "Quartz Bricks",
+      "path": "https://minecraft.wiki/images/Quartz_Bricks_%28texture%29_JE2_BE2.png?7fe7f"
+    },
+    {
+      "name": "Block of Copper",
+      "path": "https://minecraft.wiki/images/Block_of_Copper_%28texture%29_JE1_BE1.png?6a5d6"
+    },
+    {
+      "name": "Exposed Copper",
+      "path": "https://minecraft.wiki/images/Exposed_Copper_%28texture%29_JE1_BE1.png?20caa"
+    },
+    {
+      "name": "Weathered Copper",
+      "path": "https://minecraft.wiki/images/Weathered_Copper_%28texture%29_JE1_BE1.png?52a2c"
+    },
+    {
+      "name": "Oxidized Copper",
+      "path": "https://minecraft.wiki/images/Oxidized_Copper_%28texture%29_JE1_BE1.png?7fdb0"
+    },
+    {
+      "name": "Chiseled Copper",
+      "path": "https://minecraft.wiki/images/Chiseled_Copper_%28texture%29.png?e23d4"
+    },
+    {
+      "name": "Exposed Chiseled Copper",
+      "path": "https://minecraft.wiki/images/Exposed_Chiseled_Copper_%28texture%29.png?aad26"
+    },
+    {
+      "name": "Weathered Chiseled Copper",
+      "path": "https://minecraft.wiki/images/Weathered_Chiseled_Copper_%28texture%29.png?774fc"
+    },
+    {
+      "name": "Oxidized Chiseled Copper",
+      "path": "https://minecraft.wiki/images/Oxidized_Chiseled_Copper_%28texture%29_JE1_BE1.png?1dddf"
+    },
+    {
+      "name": "Copper Grate",
+      "path": "https://minecraft.wiki/images/Copper_Grate_%28texture%29.png?feb2d"
+    },
+    {
+      "name": "Exposed Copper Grate",
+      "path": "https://minecraft.wiki/images/Exposed_Copper_Grate_%28texture%29.png?e36fa"
+    },
+    {
+      "name": "Weathered Copper Grate",
+      "path": "https://minecraft.wiki/images/Weathered_Copper_Grate_%28texture%29.png?9467b"
+    },
+    {
+      "name": "Oxidized Copper Grate",
+      "path": "https://minecraft.wiki/images/Oxidized_Copper_Grate_%28texture%29.png?8ef52"
+    },
+    {
+      "name": "Cut Copper",
+      "path": "https://minecraft.wiki/images/Cut_Copper_%28texture%29_JE2_BE1.png?8f22b"
+    },
+    {
+      "name": "Exposed Cut Copper",
+      "path": "https://minecraft.wiki/images/Exposed_Cut_Copper_%28texture%29_JE1_BE1.png?54abd"
+    },
+    {
+      "name": "Weathered Cut Copper",
+      "path": "https://minecraft.wiki/images/Weathered_Cut_Copper_%28texture%29_JE1_BE1.png?9cd87"
+    },
+    {
+      "name": "Oxidized Cut Copper",
+      "path": "https://minecraft.wiki/images/Oxidized_Cut_Copper_%28texture%29_JE1_BE1.png?0b883"
+    }
+  ],
+  "Wood": [
+    {
+      "name": "Oak Log",
+      "path": "https://minecraft.wiki/images/Oak_Log_%28top_texture%29_JE5_BE2.png?d4897"
+    },
+    {
+      "name": "Stripped Oak Log",
+      "path": "https://minecraft.wiki/images/Stripped_Oak_Log_%28top_texture%29_JE2_BE2.png?d8ff5"
+    },
+    {
+      "name": "Oak Planks",
+      "path": "https://minecraft.wiki/images/Oak_Planks_%28texture%29_JE6_BE3.png?cd50e"
+    },
+    {
+      "name": "Spruce Log",
+      "path": "https://minecraft.wiki/images/Spruce_Log_%28top_texture%29_JE4.png?5685d"
+    },
+    {
+      "name": "Stripped Spruce Log",
+      "path": "https://minecraft.wiki/images/Stripped_Spruce_Log_%28top_texture%29_JE2.png?4196e"
+    },
+    {
+      "name": "Spruce Planks",
+      "path": "https://minecraft.wiki/images/Spruce_Planks_%28texture%29_JE4_BE2.png?05842"
+    },
+    {
+      "name": "Birch Log",
+      "path": "https://minecraft.wiki/images/Birch_Log_%28top_texture%29_JE4_BE2.png?93a5e"
+    },
+    {
+      "name": "Stripped Birch Log",
+      "path": "https://minecraft.wiki/images/Stripped_Birch_Log_%28top_texture%29_JE2_BE2.png?ac03b"
+    },
+    {
+      "name": "Birch Planks",
+      "path": "https://minecraft.wiki/images/Birch_Planks_%28texture%29_JE3_BE2.png?66ac1"
+    },
+    {
+      "name": "Jungle Log",
+      "path": "https://minecraft.wiki/images/Jungle_Log_%28top_texture%29_JE5_BE2.png?feb29"
+    },
+    {
+      "name": "Stripped Jungle Log",
+      "path": "https://minecraft.wiki/images/Stripped_Jungle_Log_%28top_texture%29_JE3_BE2.png?fdd70"
+    },
+    {
+      "name": "Jungle Planks",
+      "path": "https://minecraft.wiki/images/Jungle_Planks_%28texture%29_JE3_BE2.png?51d36"
+    },
+    {
+      "name": "Acacia Log",
+      "path": "https://minecraft.wiki/images/Acacia_Log_%28top_texture%29_JE4_BE2.png?011fb"
+    },
+    {
+      "name": "Stripped Acacia Log",
+      "path": "https://minecraft.wiki/images/Stripped_Acacia_Log_%28top_texture%29_JE2_BE2.png?ff48b"
+    },
+    {
+      "name": "Acacia Planks",
+      "path": "https://minecraft.wiki/images/Acacia_Planks_%28texture%29_JE3_BE2.png?12ab1"
+    },
+    {
+      "name": "Dark Oak Log",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Log_%28top_texture%29_JE5.png?9a792"
+    },
+    {
+      "name": "Stripped Dark Oak Log",
+      "path": "https://minecraft.wiki/images/Stripped_Dark_Oak_Log_%28top_texture%29_JE2.png?a11e6"
+    },
+    {
+      "name": "Dark Oak Planks",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Planks_%28texture%29_JE3_BE2.png?ceb05"
+    },
+    {
+      "name": "Mangrove Log",
+      "path": "https://minecraft.wiki/images/Mangrove_Log_%28top_texture%29_JE1_BE1.png?27d5c"
+    },
+    {
+      "name": "Stripped Mangrove Log",
+      "path": "https://minecraft.wiki/images/Stripped_Mangrove_Log_%28top_texture%29_JE1_BE1.png?7a1bc"
+    },
+    {
+      "name": "Mangrove Planks",
+      "path": "https://minecraft.wiki/images/Mangrove_Planks_%28texture%29_JE1_BE1.png?e03cc"
+    },
+    {
+      "name": "Cherry Log",
+      "path": "https://minecraft.wiki/images/Cherry_Log_%28top_texture%29_JE1.png?9f7bb"
+    },
+    {
+      "name": "Stripped Cherry Log",
+      "path": "https://minecraft.wiki/images/Stripped_Cherry_Log_%28top_texture%29_JE1.png?3a2ef"
+    },
+    {
+      "name": "Cherry Planks",
+      "path": "https://minecraft.wiki/images/Cherry_Planks_%28texture%29_JE1_BE1.png?df5d6"
+    },
+    {
+      "name": "Block of Bamboo",
+      "path": "https://minecraft.wiki/images/Block_of_Bamboo_%28top_texture%29_JE3.png?a5619"
+    },
+    {
+      "name": "Block of Stripped Bamboo",
+      "path": "https://minecraft.wiki/images/Block_of_Bamboo_%28top_texture%29_JE1.png?ef246"
+    },
+    {
+      "name": "Bamboo Planks",
+      "path": "https://minecraft.wiki/images/Bamboo_Planks_%28texture%29_JE2.png?7587b"
+    },
+    {
+      "name": "Bamboo Mosaic",
+      "path": "https://minecraft.wiki/images/Bamboo_Mosaic_%28texture%29_JE1_BE1.png?3f751"
+    },
+    {
+      "name": "Crimson Stem",
+      "path": "https://minecraft.wiki/images/Crimson_Stem_%28top_texture%29_JE2_BE1.png?868d7"
+    },
+    {
+      "name": "Stripped Crimson Stem",
+      "path": "https://minecraft.wiki/images/Stripped_Crimson_Stem_%28top_texture%29_JE2_BE1.png?5c6dc"
+    },
+    {
+      "name": "Crimson Planks",
+      "path": "https://minecraft.wiki/images/Crimson_Planks_%28texture%29_JE1_BE1.png?6812f"
+    },
+    {
+      "name": "Warped Stem",
+      "path": "https://minecraft.wiki/images/Warped_Stem_%28top_texture%29_JE2_BE1.png?6e0b1"
+    },
+    {
+      "name": "Stripped Warped Stem",
+      "path": "https://minecraft.wiki/images/Stripped_Warped_Stem_%28top_texture%29_JE2_BE1.png?4e119"
+    },
+    {
+      "name": "Warped Planks",
+      "path": "https://minecraft.wiki/images/Warped_Planks_%28texture%29_JE1_BE1.png?c3f75"
+    }
+  ],
+  "Plant": [
+    {
+      "name": "Oak Leaves",
+      "path": "https://minecraft.wiki/images/Oak_Leaves_%28texture%29_JE4_BE2.png?42147"
+    },
+    {
+      "name": "Spruce Leaves",
+      "path": "https://minecraft.wiki/images/Spruce_Leaves_%28texture%29_JE2_BE2.png?73ef1"
+    },
+    {
+      "name": "Birch Leaves",
+      "path": "https://minecraft.wiki/images/Birch_Leaves_%28texture%29_JE1_BE1.png?cf2f0"
+    },
+    {
+      "name": "Jungle Leaves",
+      "path": "https://minecraft.wiki/images/Jungle_Leaves_%28texture%29_JE2_BE2.png?38ae2"
+    },
+    {
+      "name": "Acacia Leaves",
+      "path": "https://minecraft.wiki/images/Acacia_Leaves_%28texture%29_JE1_BE1.png?ac633"
+    },
+    {
+      "name": "Dark Oak Leaves",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Leaves_%28texture%29_JE1_BE1.png?3a1c5"
+    },
+    {
+      "name": "Mangrove Leaves",
+      "path": "https://minecraft.wiki/images/Mangrove_Leaves_%28texture%29_JE2_BE2.png?b0daa"
+    },
+    {
+      "name": "Cherry Leaves",
+      "path": "https://minecraft.wiki/images/Cherry_Leaves_%28texture%29_JE2.png?cd5a2"
+    },
+    {
+      "name": "Azalea Leaves",
+      "path": "https://minecraft.wiki/images/Azalea_Leaves_%28texture%29_JE1.png?50ea5"
+    },
+    {
+      "name": "Flowering Azalea Leaves",
+      "path": "https://minecraft.wiki/images/Flowering_Azalea_Leaves_%28texture%29_JE1.png?d275a"
+    },
+    {
+      "name": "Oak Sapling",
+      "path": "https://minecraft.wiki/images/Oak_Sapling_%28texture%29_JE5_BE3.png?d7869"
+    },
+    {
+      "name": "Spruce Sapling",
+      "path": "https://minecraft.wiki/images/Spruce_Sapling_%28texture%29_JE2_BE2.png?8623b"
+    },
+    {
+      "name": "Birch Sapling",
+      "path": "https://minecraft.wiki/images/Birch_Sapling_%28texture%29_JE2_BE2.png?18fa8"
+    },
+    {
+      "name": "Jungle Sapling",
+      "path": "https://minecraft.wiki/images/Jungle_Sapling_%28texture%29_JE2_BE2.png?f0a21"
+    },
+    {
+      "name": "Acacia Sapling",
+      "path": "https://minecraft.wiki/images/Acacia_Sapling_%28texture%29_JE2_BE2.png?96d7c"
+    },
+    {
+      "name": "Dark Oak Sapling",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Sapling_%28texture%29_JE2_BE2.png?bb241"
+    },
+    {
+      "name": "Cherry Sapling",
+      "path": "https://minecraft.wiki/images/Cherry_Sapling_%28texture%29_JE2.png?a1449"
+    },
+    {
+      "name": "Mangrove Propagule",
+      "path": "https://minecraft.wiki/images/Mangrove_Propagule_%28texture%29_JE1_BE1.png?d16d9"
+    },
+    {
+      "name": "Mangrove Roots",
+      "path": "https://minecraft.wiki/images/Mangrove_Roots_%28side_texture%29_JE1_BE1.png?d66a6"
+    },
+    {
+      "name": "Muddy Mangrove Roots",
+      "path": "https://minecraft.wiki/images/Muddy_Mangrove_Roots_%28side_texture%29_JE1_BE1.png?212b9"
+    },
+    {
+      "name": "Azalea",
+      "path": "https://minecraft.wiki/images/Azalea_%28top_texture%29_JE1.png?47aa7"
+    },
+    {
+      "name": "Potted Azalea",
+      "path": "https://minecraft.wiki/images/Potted_Azalea_%28top_texture%29_JE1.png?763d6"
+    },
+    {
+      "name": "Flowering Azalea",
+      "path": "https://minecraft.wiki/images/Flowering_Azalea_%28top_texture%29_JE1.png?5a784"
+    },
+    {
+      "name": "Potted Flowering Azalea",
+      "path": "https://minecraft.wiki/images/Potted_Flowering_Azalea_%28top_texture%29_JE1.png?cd2b9"
+    },
+    {
+      "name": "Moss Block",
+      "path": "https://minecraft.wiki/images/Moss_Block_%28texture%29_JE1.png?f5cf5"
+    },
+    {
+      "name": "Dead Bush",
+      "path": "https://minecraft.wiki/images/Dead_Bush_%28texture%29_JE2_BE2.png?94a9a"
+    },
+    {
+      "name": "Short Grass",
+      "path": "https://minecraft.wiki/images/Grass_%28texture%29_JE4.png?65e5a"
+    },
+    {
+      "name": "Tall Grass",
+      "path": "https://minecraft.wiki/images/Tall_Grass_%28top_texture%29_JE3.png?b6043"
+    },
+    {
+      "name": "Fern",
+      "path": "https://minecraft.wiki/images/Fern_%28texture%29_JE2.png?0faa9"
+    },
+    {
+      "name": "Large Fern",
+      "path": "https://minecraft.wiki/images/Large_Fern_%28bottom_texture%29_JE2.png?4ce34"
+    },
+    {
+      "name": "Dandelion",
+      "path": "https://minecraft.wiki/images/Dandelion_%28texture%29_JE2_BE2.png?9b56f"
+    },
+    {
+      "name": "Poppy",
+      "path": "https://minecraft.wiki/images/Poppy_%28texture%29_JE3_BE2.png?db1b6"
+    },
+    {
+      "name": "Blue Orchid",
+      "path": "https://minecraft.wiki/images/Blue_Orchid_%28texture%29_JE2_BE2.png?75fd4"
+    },
+    {
+      "name": "Allium",
+      "path": "https://minecraft.wiki/images/Allium_%28texture%29_JE2_BE2.png?ff109"
+    },
+    {
+      "name": "Azure Bluet",
+      "path": "https://minecraft.wiki/images/Azure_Bluet_%28texture%29_JE2_BE2.png?a155e"
+    },
+    {
+      "name": "Red Tulip",
+      "path": "https://minecraft.wiki/images/Red_Tulip_%28texture%29_JE2_BE2.png?c6fd5"
+    },
+    {
+      "name": "Orange Tulip",
+      "path": "https://minecraft.wiki/images/Orange_Tulip_%28texture%29_JE2_BE2.png?a490c"
+    },
+    {
+      "name": "White Tulip",
+      "path": "https://minecraft.wiki/images/White_Tulip_%28texture%29_JE2_BE2.png?0ec24"
+    },
+    {
+      "name": "Pink Tulip",
+      "path": "https://minecraft.wiki/images/Pink_Tulip_%28texture%29_JE2_BE2.png?8b25f"
+    },
+    {
+      "name": "Oxeye Daisy",
+      "path": "https://minecraft.wiki/images/Oxeye_Daisy_%28texture%29_JE2_BE2.png?08f48"
+    },
+    {
+      "name": "Cornflower",
+      "path": "https://minecraft.wiki/images/Cornflower_%28texture%29_JE1_BE1.png?aa2f0"
+    },
+    {
+      "name": "Lily of the Valley",
+      "path": "https://minecraft.wiki/images/Lily_of_the_Valley_%28texture%29_JE1_BE1.png?2210a"
+    },
+    {
+      "name": "Wither Rose",
+      "path": "https://minecraft.wiki/images/Wither_Rose_%28texture%29_JE1_BE1.png?348ed"
+    },
+    {
+      "name": "Sunflower",
+      "path": "https://minecraft.wiki/images/Sunflower_%28back_texture%29_JE2_BE2.png?ebb25"
+    },
+    {
+      "name": "Lilac",
+      "path": "https://minecraft.wiki/images/Lilac_%28top_texture%29_JE2_BE2.png?c9d4e"
+    },
+    {
+      "name": "Rose Bush",
+      "path": "https://minecraft.wiki/images/Rose_Bush_%28top_texture%29_JE2_BE3.png?b4ee3"
+    },
+    {
+      "name": "Peony",
+      "path": "https://minecraft.wiki/images/Peony_%28top_texture%29_JE2_BE3.png?183a9"
+    },
+    {
+      "name": "Pink Petals",
+      "path": "https://minecraft.wiki/images/Pink_Petals_%28texture%29_JE1.png?80d00"
+    },
+    {
+      "name": "Spore Blossom",
+      "path": "https://minecraft.wiki/images/Spore_Blossom_%28petal_texture%29_JE1_BE1.png?ec9f2"
+    },
+    {
+      "name": "Hanging Roots",
+      "path": "https://minecraft.wiki/images/Hanging_Roots_%28texture%29_JE2_BE1.png?cf98d"
+    },
+    {
+      "name": "Vines",
+      "path": "https://minecraft.wiki/images/Vines_%28texture%29_JE2_BE2.png?e95d0"
+    },
+    {
+      "name": "Lily Pad",
+      "path": "https://minecraft.wiki/images/Lily_Pad_%28texture%29_JE2_BE2.png?565a3"
+    },
+    {
+      "name": "Sugar Cane",
+      "path": "https://minecraft.wiki/images/Sugar_Cane_%28texture%29_JE1_BE1.png?cc61e"
+    },
+    {
+      "name": "Bamboo",
+      "path": "https://minecraft.wiki/images/Bamboo_Shoot_%28texture%29_JE1_BE1.png?acbd3"
+    },
+    {
+      "name": "Cactus",
+      "path": "https://minecraft.wiki/images/Cactus_%28top_texture%29_JE4_BE4.png?e28d7"
+    },
+    {
+      "name": "Big Dripleaf",
+      "path": "https://minecraft.wiki/images/Big_Dripleaf_%28tip_texture%29_JE1.png?6048f"
+    },
+    {
+      "name": "Small Dripleaf",
+      "path": "https://minecraft.wiki/images/Small_Dripleaf_%28top_texture%29_JE1.png?d0e50"
+    },
+    {
+      "name": "Cocoa",
+      "path": "https://minecraft.wiki/images/Cocoa_Age_0_%28texture%29_JE3_BE3.png?668ef"
+    },
+    {
+      "name": "Wheat",
+      "path": "https://minecraft.wiki/images/Wheat_Age_0_%28texture%29_JE3_BE2.png?8c529"
+    },
+    {
+      "name": "Carrots",
+      "path": "https://minecraft.wiki/images/Carrots_Age_0_%28texture%29_JE2_BE2.png?b73a4"
+    },
+    {
+      "name": "Potatoes",
+      "path": "https://minecraft.wiki/images/Potatoes_Age_0_%28texture%29_JE2_BE2.png?86a1c"
+    },
+    {
+      "name": "Beetroots",
+      "path": "https://minecraft.wiki/images/Beetroots_Age_0_%28texture%29_JE2_BE2.png?5456a"
+    },
+    {
+      "name": "Torchflower",
+      "path": "https://minecraft.wiki/images/Torchflower_Crop_%28stage0_texture%29_JE1.png?99637"
+    },
+    {
+      "name": "Pitcher Crop",
+      "path": "https://minecraft.wiki/images/Pitched_Crop_%28top_texture%29_JE1.png?64a57"
+    },
+    {
+      "name": "Pitcher Plant",
+      "path": "https://minecraft.wiki/images/Pitcher_Crop_%28bottom_stage4_texture%29_JE1_BE1.png?446ad"
+    },
+    {
+      "name": "Cave Vines",
+      "path": "https://minecraft.wiki/images/Cave_Vines_%28berries%2C_texture%29_JE1.png?abdfa"
+    },
+    {
+      "name": "Sweet Berry Bush",
+      "path": "https://minecraft.wiki/images/Sweet_Berry_Bush_Age_0_%28texture%29_JE1_BE1.png?a9491"
+    },
+    {
+      "name": "Dried Kelp Block",
+      "path": "https://minecraft.wiki/images/Dried_Kelp_Block_%28top_texture%29_JE1_BE2.png?d3e2d"
+    },
+    {
+      "name": "Stem",
+      "path": "https://minecraft.wiki/images/Stem_%28texture%29_JE3_BE3.png?04894"
+    },
+    {
+      "name": "Melon",
+      "path": "https://minecraft.wiki/images/Melon_%28top_texture%29_JE2_BE2.png?d6876"
+    },
+    {
+      "name": "Pumpkin",
+      "path": "https://minecraft.wiki/images/Pumpkin_%28top_texture%29_JE2_BE2.png?3ea94"
+    },
+    {
+      "name": "Carved Pumpkin",
+      "path": "https://minecraft.wiki/images/Carved_Pumpkin_%28texture%29_JE3_BE2.png?f2245"
+    },
+    {
+      "name": "Jack o'Lantern",
+      "path": "https://minecraft.wiki/images/Jack_o%27Lantern_%28texture%29_JE3_BE2.png?a1609"
+    },
+    {
+      "name": "Hay Bale",
+      "path": "https://minecraft.wiki/images/Hay_Bale_%28top_texture%29_JE2_BE2.png?23d41"
+    },
+    {
+      "name": "Chorus Plant",
+      "path": "https://minecraft.wiki/images/Chorus_Plant_%28texture%29_JE2_BE2.png?239b6"
+    },
+    {
+      "name": "Chorus Flower",
+      "path": "https://minecraft.wiki/images/Chorus_Flower_%28texture%29_JE2_BE2.png?1ed3f"
+    }
+  ],
+  "Fungus": [
+    {
+      "name": "Red Mushroom",
+      "path": "https://minecraft.wiki/images/Red_Mushroom_%28texture%29_JE2_BE2.png?257cd"
+    },
+    {
+      "name": "Brown Mushroom",
+      "path": "https://minecraft.wiki/images/Brown_Mushroom_%28texture%29_JE2_BE2.png?5676e"
+    },
+    {
+      "name": "Red Mushroom Block",
+      "path": "https://minecraft.wiki/images/Red_Mushroom_Block_%28texture%29_JE2_BE2.png?d1e6b"
+    },
+    {
+      "name": "Brown Mushroom Block",
+      "path": "https://minecraft.wiki/images/Brown_Mushroom_Block_%28texture%29_JE2_BE2.png?1c30a"
+    },
+    {
+      "name": "Mushroom Stem",
+      "path": "https://minecraft.wiki/images/Mushroom_Stem_%28texture%29_JE2_BE2.png?43351"
+    },
+    {
+      "name": "Mushroom Block",
+      "path": "https://minecraft.wiki/images/Mushroom_Block_%28inside_texture%29_JE2_BE2.png?5899c"
+    },
+    {
+      "name": "Glow Lichen",
+      "path": "https://minecraft.wiki/images/Glow_Lichen_%28texture%29_JE1.png?6ea85"
+    },
+    {
+      "name": "Shroomlight",
+      "path": "https://minecraft.wiki/images/Shroomlight_%28texture%29_JE1_BE1.png?a3e14"
+    },
+    {
+      "name": "Weeping Vines",
+      "path": "https://minecraft.wiki/images/Weeping_Vines_%28texture%29_JE1.png?ca0f7"
+    },
+    {
+      "name": "Weeping Vines Plant",
+      "path": "https://minecraft.wiki/images/Weeping_Vines_Plant_%28texture%29_JE1.png?bf8fd"
+    },
+    {
+      "name": "Crimson Fungus",
+      "path": "https://minecraft.wiki/images/Crimson_Fungus_%28texture%29_JE1_BE1.png?1566e"
+    },
+    {
+      "name": "Crimson Roots",
+      "path": "https://minecraft.wiki/images/Crimson_Roots_%28texture%29_JE1_BE1.png?7606f"
+    },
+    {
+      "name": "Potted Crimson Roots",
+      "path": "https://minecraft.wiki/images/Potted_Crimson_Roots_%28texture%29_JE1_BE1.png?e0a7f"
+    },
+    {
+      "name": "Nether Wart",
+      "path": "https://minecraft.wiki/images/Nether_Wart_Age_0_%28texture%29_JE2_BE2.png?08548"
+    },
+    {
+      "name": "Nether Wart Block",
+      "path": "https://minecraft.wiki/images/Nether_Wart_Block_%28texture%29_JE3_BE3.png?690b1"
+    },
+    {
+      "name": "Twisting Vines",
+      "path": "https://minecraft.wiki/images/Twisting_Vines_%28texture%29_JE1_BE1.png?e2a3e"
+    },
+    {
+      "name": "Twisting Vines Plant",
+      "path": "https://minecraft.wiki/images/Twisting_Vines_Plant_%28texture%29_JE1_BE1.png?7a70e"
+    },
+    {
+      "name": "Warped Fungus",
+      "path": "https://minecraft.wiki/images/Warped_Fungus_%28item%29_JE2_BE1.png?85b79"
+    },
+    {
+      "name": "Warped Roots",
+      "path": "https://minecraft.wiki/images/Warped_Roots_%28texture%29_JE1_BE1.png?d8a2c"
+    },
+    {
+      "name": "Potted Warped Roots",
+      "path": "https://minecraft.wiki/images/Potted_Warped_Roots_%28texture%29_JE1_BE1.png?af892"
+    },
+    {
+      "name": "Nether Sprouts",
+      "path": "https://minecraft.wiki/images/Nether_Sprouts_%28texture%29_JE2_BE2.png?1a3ba"
+    },
+    {
+      "name": "Warped Wart Block",
+      "path": "https://minecraft.wiki/images/Warped_Wart_Block_%28texture%29_JE1_BE1.png?20373"
+    }
+  ],
+  "Animal": [
+    {
+      "name": "Tube Coral Block",
+      "path": "https://minecraft.wiki/images/Tube_Coral_Block_%28texture%29_JE2_BE1.png?ec9d4"
+    },
+    {
+      "name": "Brain Coral Block",
+      "path": "https://minecraft.wiki/images/Brain_Coral_Block_%28texture%29_JE2_BE1.png?05635"
+    },
+    {
+      "name": "Bubble Coral Block",
+      "path": "https://minecraft.wiki/images/Bubble_Coral_Block_%28texture%29_JE2_BE1.png?93707"
+    },
+    {
+      "name": "Fire Coral Block",
+      "path": "https://minecraft.wiki/images/Fire_Coral_Block_%28texture%29_JE2_BE1.png?34464"
+    },
+    {
+      "name": "Horn Coral Block",
+      "path": "https://minecraft.wiki/images/Horn_Coral_Block_%28texture%29_JE2_BE2.png?61290"
+    },
+    {
+      "name": "Dead Tube Coral Block",
+      "path": "https://minecraft.wiki/images/Dead_Tube_Coral_Block_%28texture%29_JE1_BE1.png?8d3d2"
+    },
+    {
+      "name": "Dead Brain Coral Block",
+      "path": "https://minecraft.wiki/images/Dead_Brain_Coral_Block_%28texture%29_JE1_BE1.png?5202a"
+    },
+    {
+      "name": "Dead Bubble Coral Block",
+      "path": "https://minecraft.wiki/images/Dead_Bubble_Coral_Block_%28texture%29_JE1_BE1.png?7ee92"
+    },
+    {
+      "name": "Dead Fire Coral Block",
+      "path": "https://minecraft.wiki/images/Dead_Fire_Coral_Block_%28texture%29_JE1_BE1.png?eeac6"
+    },
+    {
+      "name": "Dead Horn Coral Block",
+      "path": "https://minecraft.wiki/images/Dead_Horn_Coral_Block_%28texture%29_JE1_BE1.png?f7500"
+    },
+    {
+      "name": "Tube Coral",
+      "path": "https://minecraft.wiki/images/Tube_Coral_%28texture%29_JE1_BE1.png?e9007"
+    },
+    {
+      "name": "Brain Coral",
+      "path": "https://minecraft.wiki/images/Brain_Coral_%28texture%29_JE1_BE1.png?34ef3"
+    },
+    {
+      "name": "Bubble Coral",
+      "path": "https://minecraft.wiki/images/Bubble_Coral_%28texture%29_JE1_BE1.png?91893"
+    },
+    {
+      "name": "Fire Coral",
+      "path": "https://minecraft.wiki/images/Fire_Coral_%28texture%29_JE2_BE1.png?54391"
+    },
+    {
+      "name": "Horn Coral",
+      "path": "https://minecraft.wiki/images/Horn_Coral_%28texture%29_JE1_BE1.png?f61ed"
+    },
+    {
+      "name": "Dead Tube Coral",
+      "path": "https://minecraft.wiki/images/Dead_Tube_Coral_%28texture%29_JE1_BE1.png?b9b3e"
+    },
+    {
+      "name": "Dead Brain Coral",
+      "path": "https://minecraft.wiki/images/Dead_Brain_Coral_%28texture%29_JE1_BE1.png?47710"
+    },
+    {
+      "name": "Dead Bubble Coral",
+      "path": "https://minecraft.wiki/images/Dead_Bubble_Coral_%28texture%29_JE1_BE1.png?f545f"
+    },
+    {
+      "name": "Dead Fire Coral",
+      "path": "https://minecraft.wiki/images/Dead_Fire_Coral_%28texture%29_JE1_BE1.png?b16fc"
+    },
+    {
+      "name": "Dead Horn Coral",
+      "path": "https://minecraft.wiki/images/Dead_Horn_Coral_%28texture%29_JE1_BE1.png?e38e7"
+    },
+    {
+      "name": "Tube Coral Fan",
+      "path": "https://minecraft.wiki/images/Tube_Coral_Fan_%28texture%29_JE2_BE2.png?d41ac"
+    },
+    {
+      "name": "Brain Coral Fan",
+      "path": "https://minecraft.wiki/images/Brain_Coral_Fan_%28texture%29_JE2_BE2.png?1a209"
+    },
+    {
+      "name": "Bubble Coral Fan",
+      "path": "https://minecraft.wiki/images/Bubble_Coral_Fan_%28texture%29_JE2_BE2.png?19a81"
+    },
+    {
+      "name": "Fire Coral Fan",
+      "path": "https://minecraft.wiki/images/Fire_Coral_Fan_%28texture%29_JE1_BE2.png?4ea38"
+    },
+    {
+      "name": "Horn Coral Fan",
+      "path": "https://minecraft.wiki/images/Horn_Coral_Fan_%28texture%29_JE2_BE2.png?ce43e"
+    },
+    {
+      "name": "Dead Tube Coral Fan",
+      "path": "https://minecraft.wiki/images/Dead_Tube_Coral_Fan_%28texture%29_JE1_BE2.png?fcc7c"
+    },
+    {
+      "name": "Dead Brain Coral Fan",
+      "path": "https://minecraft.wiki/images/Dead_Brain_Coral_Fan_%28texture%29_JE1_BE2.png?05dc8"
+    },
+    {
+      "name": "Dead Bubble Coral Fan",
+      "path": "https://minecraft.wiki/images/Dead_Bubble_Coral_Fan_%28texture%29_JE1_BE2.png?61f03"
+    },
+    {
+      "name": "Dead Fire Coral Fan",
+      "path": "https://minecraft.wiki/images/Dead_Fire_Coral_Fan_%28texture%29_JE1_BE2.png?84ee6"
+    },
+    {
+      "name": "Dead Horn Coral Fan",
+      "path": "https://minecraft.wiki/images/Dead_Horn_Coral_Fan_%28texture%29_JE1_BE2.png?dbc27"
+    },
+    {
+      "name": "Sponge",
+      "path": "https://minecraft.wiki/images/Sponge_%28texture%29_JE3_BE3.png?2a333"
+    },
+    {
+      "name": "Wet Sponge",
+      "path": "https://minecraft.wiki/images/Wet_Sponge_%28texture%29_JE2_BE2.png?6d52c"
+    },
+    {
+      "name": "Sea Pickle",
+      "path": "https://minecraft.wiki/images/Sea_Pickle_%28texture%29_JE1_BE1.png?346d5"
+    },
+    {
+      "name": "Turtle Egg",
+      "path": "https://minecraft.wiki/images/Turtle_Egg_%28texture%29_JE1_BE1.png?859a4"
+    },
+    {
+      "name": "Sniffer Egg",
+      "path": "https://minecraft.wiki/images/Sniffer_Egg_%28not_cracked_texture%29_JE1.png?df4f7"
+    },
+    {
+      "name": "Dragon Egg",
+      "path": "https://minecraft.wiki/images/Dragon_Egg_%28texture%29_JE1_BE1.png?7d5c1"
+    },
+    {
+      "name": "Frog Spawn",
+      "path": "https://minecraft.wiki/images/Frogspawn_%28texture%29_JE1_BE2.png?c8218"
+    },
+    {
+      "name": "Ochre Froglight",
+      "path": "https://minecraft.wiki/images/Ochre_Froglight_%28top_texture%29_JE1_BE1.png?b43d0"
+    },
+    {
+      "name": "Verdant Froglight",
+      "path": "https://minecraft.wiki/images/Verdant_Froglight_%28top_texture%29_JE1_BE1.png?71486"
+    },
+    {
+      "name": "Pearlescent Froglight",
+      "path": "https://minecraft.wiki/images/Pearlescent_Froglight_%28top_texture%29_JE1_BE1.png?fcbdf"
+    },
+    {
+      "name": "Bone Block",
+      "path": "https://minecraft.wiki/images/Bone_Block_%28top_texture%29_JE2_BE2.png?ba1ae"
+    },
+    {
+      "name": "Honeycomb Block",
+      "path": "https://minecraft.wiki/images/Honeycomb_Block_%28texture%29_JE1_BE1.png?7b3c2"
+    },
+    {
+      "name": "Cobweb",
+      "path": "https://minecraft.wiki/images/Cobweb_%28texture%29_JE2_BE2.png?6345a"
+    }
+  ],
+  "Building": [
+    {
+      "name": "Bricks",
+      "path": "https://minecraft.wiki/images/Bricks_%28texture%29_JE5_BE3.png?69b73"
+    },
+    {
+      "name": "Packed Mud",
+      "path": "https://minecraft.wiki/images/Packed_Mud_%28texture%29_JE1_BE1.png?7eb51"
+    },
+    {
+      "name": "Mud Bricks",
+      "path": "https://minecraft.wiki/images/Mud_Bricks_%28texture%29_JE1_BE1.png?6d99e"
+    },
+    {
+      "name": "Prismarine Bricks",
+      "path": "https://minecraft.wiki/images/Prismarine_Bricks_%28texture%29_JE2_BE2.png?1de9f"
+    },
+    {
+      "name": "Dark Prismarine",
+      "path": "https://minecraft.wiki/images/Dark_Prismarine_%28texture%29_JE2_BE2.png?c1f37"
+    },
+    {
+      "name": "Nether Bricks",
+      "path": "https://minecraft.wiki/images/Nether_Bricks_%28texture%29_JE3_BE4.png?552c0"
+    },
+    {
+      "name": "Cracked Nether Bricks",
+      "path": "https://minecraft.wiki/images/Cracked_Nether_Bricks_%28texture%29_JE1_BE1.png?3327a"
+    },
+    {
+      "name": "Chiseled Nether Bricks",
+      "path": "https://minecraft.wiki/images/Chiseled_Nether_Bricks_%28texture%29_JE2_BE2.png?ebd89"
+    },
+    {
+      "name": "Red Nether Bricks",
+      "path": "https://minecraft.wiki/images/Red_Nether_Bricks_%28texture%29_JE3_BE2.png?874d8"
+    },
+    {
+      "name": "Purpur Block",
+      "path": "https://minecraft.wiki/images/Purpur_Block_%28texture%29_JE2_BE2.png?481ff"
+    },
+    {
+      "name": "Purpur Pillar",
+      "path": "https://minecraft.wiki/images/Purpur_Pillar_%28top_texture%29_JE2_BE2.png?dec9f"
+    },
+    {
+      "name": "White Wool",
+      "path": "https://minecraft.wiki/images/White_Wool_%28texture%29_JE2_BE2.png?c1e88"
+    },
+    {
+      "name": "Light Gray Wool",
+      "path": "https://minecraft.wiki/images/Light_Gray_Wool_%28texture%29_JE3_BE3.png?89623"
+    },
+    {
+      "name": "Gray Wool",
+      "path": "https://minecraft.wiki/images/Gray_Wool_%28texture%29_JE3_BE3.png?6c15b"
+    },
+    {
+      "name": "Black Wool",
+      "path": "https://minecraft.wiki/images/Black_Wool_%28texture%29_JE3_BE3.png?521b8"
+    },
+    {
+      "name": "Brown Wool",
+      "path": "https://minecraft.wiki/images/Brown_Wool_%28texture%29_JE3_BE3.png?964e4"
+    },
+    {
+      "name": "Red Wool",
+      "path": "https://minecraft.wiki/images/Red_Wool_%28texture%29_JE3_BE3.png?2ed3b"
+    },
+    {
+      "name": "Orange Wool",
+      "path": "https://minecraft.wiki/images/Orange_Wool_%28texture%29_JE3_BE3.png?53d1b"
+    },
+    {
+      "name": "Yellow Wool",
+      "path": "https://minecraft.wiki/images/Yellow_Wool_%28texture%29_JE3_BE3.png?737d5"
+    },
+    {
+      "name": "Lime Wool",
+      "path": "https://minecraft.wiki/images/Lime_Wool_%28texture%29_JE3_BE3.png?a03cb"
+    },
+    {
+      "name": "Green Wool",
+      "path": "https://minecraft.wiki/images/Green_Wool_%28texture%29_JE3_BE3.png?0b543"
+    },
+    {
+      "name": "Cyan Wool",
+      "path": "https://minecraft.wiki/images/Cyan_Wool_%28texture%29_JE3_BE3.png?d9a17"
+    },
+    {
+      "name": "Light Blue Wool",
+      "path": "https://minecraft.wiki/images/Light_Blue_Wool_%28texture%29_JE3_BE3.png?467de"
+    },
+    {
+      "name": "Blue Wool",
+      "path": "https://minecraft.wiki/images/Blue_Wool_%28texture%29_JE3_BE3.png?861e7"
+    },
+    {
+      "name": "Purple Wool",
+      "path": "https://minecraft.wiki/images/Purple_Wool_%28texture%29_JE3_BE3.png?c5827"
+    },
+    {
+      "name": "Magenta Wool",
+      "path": "https://minecraft.wiki/images/Magenta_Wool_%28texture%29_JE3_BE3.png?7fcca"
+    },
+    {
+      "name": "Pink Wool",
+      "path": "https://minecraft.wiki/images/Pink_Wool_%28texture%29_JE3_BE3.png?edc3d"
+    },
+    {
+      "name": "White Concrete",
+      "path": "https://minecraft.wiki/images/White_Concrete_%28texture%29_JE1_BE1.png?7d815"
+    },
+    {
+      "name": "Light Gray Concrete",
+      "path": "https://minecraft.wiki/images/Light_Gray_Concrete_%28texture%29_JE1_BE1.png?8bb78"
+    },
+    {
+      "name": "Gray Concrete",
+      "path": "https://minecraft.wiki/images/Gray_Concrete_%28texture%29_JE1_BE1.png?d4e6b"
+    },
+    {
+      "name": "Black Concrete",
+      "path": "https://minecraft.wiki/images/Black_Concrete_%28texture%29_JE1_BE1.png?dd2bc"
+    },
+    {
+      "name": "Brown Concrete",
+      "path": "https://minecraft.wiki/images/Brown_Concrete_%28texture%29_JE1_BE1.png?25a40"
+    },
+    {
+      "name": "Red Concrete",
+      "path": "https://minecraft.wiki/images/Red_Concrete_%28texture%29_JE1_BE1.png?f5fae"
+    },
+    {
+      "name": "Orange Concrete",
+      "path": "https://minecraft.wiki/images/Orange_Concrete_%28texture%29_JE1_BE1.png?4c361"
+    },
+    {
+      "name": "Yellow Concrete",
+      "path": "https://minecraft.wiki/images/Yellow_Concrete_%28texture%29_JE1_BE1.png?7ddd2"
+    },
+    {
+      "name": "Lime Concrete",
+      "path": "https://minecraft.wiki/images/Lime_Concrete_%28texture%29_JE1_BE1.png?42a10"
+    },
+    {
+      "name": "Green Concrete",
+      "path": "https://minecraft.wiki/images/Green_Concrete_%28texture%29_JE1_BE1.png?e0c93"
+    },
+    {
+      "name": "Cyan Concrete",
+      "path": "https://minecraft.wiki/images/Cyan_Concrete_%28texture%29_JE1_BE1.png?9456c"
+    },
+    {
+      "name": "Light Blue Concrete",
+      "path": "https://minecraft.wiki/images/Light_Blue_Concrete_%28texture%29_JE1_BE1.png?f3842"
+    },
+    {
+      "name": "Blue Concrete",
+      "path": "https://minecraft.wiki/images/Blue_Concrete_%28texture%29_JE1_BE1.png?e1297"
+    },
+    {
+      "name": "Purple Concrete",
+      "path": "https://minecraft.wiki/images/Purple_Concrete_%28texture%29_JE1_BE1.png?ec37b"
+    },
+    {
+      "name": "Magenta Concrete",
+      "path": "https://minecraft.wiki/images/Magenta_Concrete_%28texture%29_JE1_BE1.png?17b91"
+    },
+    {
+      "name": "Pink Concrete",
+      "path": "https://minecraft.wiki/images/Pink_Concrete_%28texture%29_JE1_BE1.png?aded8"
+    },
+    {
+      "name": "White Concrete Powder",
+      "path": "https://minecraft.wiki/images/White_Concrete_Powder_%28texture%29_JE1_BE1.png?c09d3"
+    },
+    {
+      "name": "Light Gray Concrete Powder",
+      "path": "https://minecraft.wiki/images/Light_Gray_Concrete_Powder_%28texture%29_JE1_BE1.png?72129"
+    },
+    {
+      "name": "Gray Concrete Powder",
+      "path": "https://minecraft.wiki/images/Gray_Concrete_Powder_%28texture%29_JE1_BE1.png?0b8e5"
+    },
+    {
+      "name": "Black Concrete Powder",
+      "path": "https://minecraft.wiki/images/Black_Concrete_Powder_%28texture%29_JE1_BE1.png?2d18c"
+    },
+    {
+      "name": "Brown Concrete Powder",
+      "path": "https://minecraft.wiki/images/Brown_Concrete_Powder_%28texture%29_JE1_BE1.png?0b051"
+    },
+    {
+      "name": "Red Concrete Powder",
+      "path": "https://minecraft.wiki/images/Red_Concrete_Powder_%28texture%29_JE1_BE1.png?3d66b"
+    },
+    {
+      "name": "Orange Concrete Powder",
+      "path": "https://minecraft.wiki/images/Orange_Concrete_Powder_%28texture%29_JE1_BE1.png?9c421"
+    },
+    {
+      "name": "Yellow Concrete Powder",
+      "path": "https://minecraft.wiki/images/Yellow_Concrete_Powder_%28texture%29_JE1_BE1.png?efa92"
+    },
+    {
+      "name": "Lime Concrete Powder",
+      "path": "https://minecraft.wiki/images/Lime_Concrete_Powder_%28texture%29_JE1_BE1.png?c2677"
+    },
+    {
+      "name": "Green Concrete Powder",
+      "path": "https://minecraft.wiki/images/Green_Concrete_Powder_%28texture%29_JE1_BE1.png?898fd"
+    },
+    {
+      "name": "Cyan Concrete Powder",
+      "path": "https://minecraft.wiki/images/Cyan_Concrete_Powder_%28texture%29_JE1_BE1.png?bb969"
+    },
+    {
+      "name": "Light Blue Concrete Powder",
+      "path": "https://minecraft.wiki/images/Light_Blue_Concrete_Powder_%28texture%29_JE1_BE1.png?b2800"
+    },
+    {
+      "name": "Blue Concrete Powder",
+      "path": "https://minecraft.wiki/images/Blue_Concrete_Powder_%28texture%29_JE1_BE1.png?f5063"
+    },
+    {
+      "name": "Purple Concrete Powder",
+      "path": "https://minecraft.wiki/images/Purple_Concrete_Powder_%28texture%29_JE1_BE1.png?646e2"
+    },
+    {
+      "name": "Magenta Concrete Powder",
+      "path": "https://minecraft.wiki/images/Magenta_Concrete_Powder_%28texture%29_JE1_BE1.png?710c9"
+    },
+    {
+      "name": "Pink Concrete Powder",
+      "path": "https://minecraft.wiki/images/Pink_Concrete_Powder_%28texture%29_JE1_BE1.png?5fdac"
+    },
+    {
+      "name": "Terracotta",
+      "path": "https://minecraft.wiki/images/Terracotta_%28texture%29_JE2_BE2.png?5be8c"
+    },
+    {
+      "name": "White Terracotta",
+      "path": "https://minecraft.wiki/images/White_Terracotta_%28texture%29_JE1_BE1.png?e2b0d"
+    },
+    {
+      "name": "Light Gray Terracotta",
+      "path": "https://minecraft.wiki/images/Light_Gray_Terracotta_%28texture%29_JE1_BE1.png?a0d5b"
+    },
+    {
+      "name": "Gray Terracotta",
+      "path": "https://minecraft.wiki/images/Gray_Terracotta_%28texture%29_JE1_BE1.png?e63e6"
+    },
+    {
+      "name": "Black Terracotta",
+      "path": "https://minecraft.wiki/images/Black_Terracotta_%28texture%29_JE1_BE1.png?d7453"
+    },
+    {
+      "name": "Brown Terracotta",
+      "path": "https://minecraft.wiki/images/Brown_Terracotta_%28texture%29_JE1_BE1.png?5fc2d"
+    },
+    {
+      "name": "Red Terracotta",
+      "path": "https://minecraft.wiki/images/Red_Terracotta_%28texture%29_JE1_BE1.png?5f3ae"
+    },
+    {
+      "name": "Orange Terracotta",
+      "path": "https://minecraft.wiki/images/Orange_Terracotta_%28texture%29_JE1_BE1.png?9afff"
+    },
+    {
+      "name": "Yellow Terracotta",
+      "path": "https://minecraft.wiki/images/Yellow_Terracotta_%28texture%29_JE1_BE1.png?0294e"
+    },
+    {
+      "name": "Lime Terracotta",
+      "path": "https://minecraft.wiki/images/Lime_Terracotta_%28texture%29_JE1_BE1.png?bdb45"
+    },
+    {
+      "name": "Green Terracotta",
+      "path": "https://minecraft.wiki/images/Green_Terracotta_%28texture%29_JE1_BE1.png?91fa5"
+    },
+    {
+      "name": "Cyan Terracotta",
+      "path": "https://minecraft.wiki/images/Cyan_Terracotta_%28texture%29_JE1_BE1.png?830a5"
+    },
+    {
+      "name": "Light Blue Terracotta",
+      "path": "https://minecraft.wiki/images/Light_Blue_Terracotta_%28texture%29_JE1_BE1.png?2f07d"
+    },
+    {
+      "name": "Blue Terracotta",
+      "path": "https://minecraft.wiki/images/Blue_Terracotta_%28texture%29_JE1_BE1.png?07ba7"
+    },
+    {
+      "name": "Purple Terracotta",
+      "path": "https://minecraft.wiki/images/Purple_Terracotta_%28texture%29_JE1_BE1.png?80eac"
+    },
+    {
+      "name": "Magenta Terracotta",
+      "path": "https://minecraft.wiki/images/Magenta_Terracotta_%28texture%29_JE1_BE1.png?c6988"
+    },
+    {
+      "name": "Pink Terracotta",
+      "path": "https://minecraft.wiki/images/Pink_Terracotta_%28texture%29_JE1_BE1.png?65519"
+    },
+    {
+      "name": "White Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/White_Glazed_Terracotta_%28texture%29_JE2_BE2.png?4f431"
+    },
+    {
+      "name": "Light Gray Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Light_Gray_Glazed_Terracotta_%28texture%29_JE1_BE1.png?85506"
+    },
+    {
+      "name": "Gray Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Gray_Glazed_Terracotta_%28texture%29_JE1_BE1.png?10beb"
+    },
+    {
+      "name": "Black Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Black_Glazed_Terracotta_%28texture%29_JE1_BE1.png?406bf"
+    },
+    {
+      "name": "Brown Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Brown_Glazed_Terracotta_%28texture%29_JE1_BE1.png?d6e34"
+    },
+    {
+      "name": "Red Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Red_Glazed_Terracotta_%28texture%29_JE1_BE1.png?beedd"
+    },
+    {
+      "name": "Orange Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Orange_Glazed_Terracotta_%28texture%29_JE2_BE2.png?a40a9"
+    },
+    {
+      "name": "Yellow Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Yellow_Glazed_Terracotta_%28texture%29_JE1_BE1.png?714a4"
+    },
+    {
+      "name": "Lime Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Lime_Glazed_Terracotta_%28texture%29_JE1_BE1.png?48d3e"
+    },
+    {
+      "name": "Green Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Green_Glazed_Terracotta_%28texture%29_JE1_BE1.png?7b5ed"
+    },
+    {
+      "name": "Cyan Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Cyan_Glazed_Terracotta_%28texture%29_JE2_BE2.png?71e94"
+    },
+    {
+      "name": "Light Blue Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Light_Blue_Glazed_Terracotta_%28texture%29_JE1_BE1.png?f9c3b"
+    },
+    {
+      "name": "Blue Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Blue_Glazed_Terracotta_%28texture%29_JE1_BE1.png?12cb0"
+    },
+    {
+      "name": "Purple Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Purple_Glazed_Terracotta_%28texture%29_JE1_BE1.png?a206b"
+    },
+    {
+      "name": "Magenta Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Magenta_Glazed_Terracotta_%28texture%29_JE2_BE2.png?fa8f3"
+    },
+    {
+      "name": "Pink Glazed Terracotta",
+      "path": "https://minecraft.wiki/images/Pink_Glazed_Terracotta_%28texture%29_JE1_BE1.png?bb750"
+    },
+    {
+      "name": "Tinted Glass",
+      "path": "https://minecraft.wiki/images/Tinted_Glass_%28texture%29_JE2_BE1.png?80226"
+    },
+    {
+      "name": "Glass",
+      "path": "https://minecraft.wiki/images/Glass_%28texture%29_JE4_BE2.png?73b7c"
+    },
+    {
+      "name": "White Stained Glass",
+      "path": "https://minecraft.wiki/images/White_Stained_Glass_%28texture%29_JE3_BE2.png?2ab50"
+    },
+    {
+      "name": "Light Gray Stained Glass",
+      "path": "https://minecraft.wiki/images/Light_Gray_Stained_Glass_%28texture%29_JE3_BE2.png?e5c93"
+    },
+    {
+      "name": "Gray Stained Glass",
+      "path": "https://minecraft.wiki/images/Gray_Stained_Glass_%28texture%29_JE3_BE2.png?d847d"
+    },
+    {
+      "name": "Black Stained Glass",
+      "path": "https://minecraft.wiki/images/Black_Stained_Glass_%28texture%29_JE3_BE2.png?a4504"
+    },
+    {
+      "name": "Brown Stained Glass",
+      "path": "https://minecraft.wiki/images/Brown_Stained_Glass_%28texture%29_JE3_BE2.png?a85f5"
+    },
+    {
+      "name": "Red Stained Glass",
+      "path": "https://minecraft.wiki/images/Red_Stained_Glass_%28texture%29_JE4.png?383a1"
+    },
+    {
+      "name": "Orange Stained Glass",
+      "path": "https://minecraft.wiki/images/Orange_Stained_Glass_%28texture%29_JE3_BE2.png?eaea4"
+    },
+    {
+      "name": "Yellow Stained Glass",
+      "path": "https://minecraft.wiki/images/Yellow_Stained_Glass_%28texture%29_JE3_BE2.png?fcbe4"
+    },
+    {
+      "name": "Lime Stained Glass",
+      "path": "https://minecraft.wiki/images/Lime_Stained_Glass_%28texture%29_JE3_BE2.png?3507a"
+    },
+    {
+      "name": "Green Stained Glass",
+      "path": "https://minecraft.wiki/images/Green_Stained_Glass_%28texture%29_JE3_BE2.png?31fa3"
+    },
+    {
+      "name": "Cyan Stained Glass",
+      "path": "https://minecraft.wiki/images/Cyan_Stained_Glass_%28texture%29_JE3_BE2.png?f5ce3"
+    },
+    {
+      "name": "Light Blue Stained Glass",
+      "path": "https://minecraft.wiki/images/Light_Blue_Stained_Glass_%28texture%29_JE3_BE2.png?a5f0e"
+    },
+    {
+      "name": "Blue Stained Glass",
+      "path": "https://minecraft.wiki/images/Blue_Stained_Glass_%28texture%29_JE4.png?a5a59"
+    },
+    {
+      "name": "Purple Stained Glass",
+      "path": "https://minecraft.wiki/images/Purple_Stained_Glass_%28texture%29_JE3_BE2.png?529e4"
+    },
+    {
+      "name": "Magenta Stained Glass",
+      "path": "https://minecraft.wiki/images/Magenta_Stained_Glass_%28texture%29_JE3_BE2.png?1c442"
+    },
+    {
+      "name": "Pink Stained Glass",
+      "path": "https://minecraft.wiki/images/Pink_Stained_Glass_%28texture%29_JE3_BE2.png?95365"
+    },
+    {
+      "name": "Glass Pane",
+      "path": "https://minecraft.wiki/images/Glass_Pane_%28edge_texture%29_JE2.png?d604f"
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/White_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?8fa5b"
+    },
+    {
+      "name": "Light Gray Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Light_Gray_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?1f28a"
+    },
+    {
+      "name": "Gray Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Gray_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?cc2a5"
+    },
+    {
+      "name": "Black Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Black_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?27e6b"
+    },
+    {
+      "name": "Brown Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Brown_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?c8272"
+    },
+    {
+      "name": "Red Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Red_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?1f0b5"
+    },
+    {
+      "name": "Orange Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Orange_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?70a25"
+    },
+    {
+      "name": "Yellow Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Yellow_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?11883"
+    },
+    {
+      "name": "Lime Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Lime_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?f2f1f"
+    },
+    {
+      "name": "Green Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Green_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?4c94b"
+    },
+    {
+      "name": "Cyan Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Cyan_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?dc017"
+    },
+    {
+      "name": "Light Blue Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Light_Blue_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?6c164"
+    },
+    {
+      "name": "Blue Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Blue_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?c9fef"
+    },
+    {
+      "name": "Purple Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Purple_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?9a53d"
+    },
+    {
+      "name": "Magenta Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Magenta_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?6fa09"
+    },
+    {
+      "name": "Pink Stained Glass Pane",
+      "path": "https://minecraft.wiki/images/Pink_Stained_Glass_Pane_%28edge_texture%29_JE2_BE1.png?6b168"
+    }
+  ],
+  "Decoration": [
+    {
+      "name": "Candle",
+      "path": "https://minecraft.wiki/images/Candle_%28texture%29_JE1.png?3b1b9"
+    },
+    {
+      "name": "Torch",
+      "path": "https://minecraft.wiki/images/Torch_%28texture%29_JE3_BE2.png?18a97"
+    },
+    {
+      "name": "Soul Torch",
+      "path": "https://minecraft.wiki/images/Soul_Torch_%28texture%29_JE1_BE1.png?2a1e2"
+    },
+    {
+      "name": "End Rod",
+      "path": "https://minecraft.wiki/images/End_Rod_%28texture%29_JE3.png?c05dc"
+    },
+    {
+      "name": "Small Amethyst Bud",
+      "path": "https://minecraft.wiki/images/Small_Amethyst_Bud_%28texture%29_JE1_BE1.png?c404d"
+    },
+    {
+      "name": "Medium Amethyst Bud",
+      "path": "https://minecraft.wiki/images/Medium_Amethyst_Bud_%28texture%29_JE1_BE1.png?908b4"
+    },
+    {
+      "name": "Large Amethyst Bud",
+      "path": "https://minecraft.wiki/images/Large_Amethyst_Bud_%28texture%29_JE1_BE1.png?b94ef"
+    },
+    {
+      "name": "Amethyst Cluster",
+      "path": "https://minecraft.wiki/images/Amethyst_Cluster_%28texture%29_JE1_BE1.png?97dec"
+    },
+    {
+      "name": "Bamboo Fence",
+      "path": "https://minecraft.wiki/images/Bamboo_Fence_%28particle_texture%29_JE1_BE1.png?b229a"
+    },
+    {
+      "name": "Bamboo Fence Gate",
+      "path": "https://minecraft.wiki/images/Bamboo_Fence_Gate_%28texture%29_JE1_BE1.png?e04d7"
+    },
+    {
+      "name": "Iron Bars",
+      "path": "https://minecraft.wiki/images/Iron_Bars_%28texture%29_JE2_BE2.png?3fcd9"
+    },
+    {
+      "name": "Chain",
+      "path": "https://minecraft.wiki/images/Chain_%28texture%29_JE1.png?582ca"
+    },
+    {
+      "name": "Flower Pot",
+      "path": "https://minecraft.wiki/images/Flower_Pot_%28texture%29_JE2_BE2.png?ed2da"
+    },
+    {
+      "name": "Item Frame",
+      "path": "https://minecraft.wiki/images/Item_Frame_%28texture%29_JE2_BE2.png?fa81e"
+    },
+    {
+      "name": "Glow Item Frame",
+      "path": "https://minecraft.wiki/images/Glow_Item_Frame_%28texture%29_JE1_BE1.png?c22c6"
+    },
+    {
+      "name": "Bookshelf",
+      "path": "https://minecraft.wiki/images/Bookshelf_%28texture%29_JE2_BE2.png?91ef6"
+    },
+    {
+      "name": "Cake",
+      "path": "https://minecraft.wiki/images/Cake_%28top_texture%29_JE2_BE2.png?659a5"
+    },
+    {
+      "name": "Heavy Core",
+      "path": "https://minecraft.wiki/images/Heavy_Core_%28texture%29.png?5569c"
+    }
+  ],
+  "Utility": [
+    {
+      "name": "Crafting Table",
+      "path": "https://minecraft.wiki/images/Crafting_Table_%28top_texture%29_JE2_BE2.png?1511a"
+    },
+    {
+      "name": "Stonecutter",
+      "path": "https://minecraft.wiki/images/Stonecutter_%28top_texture%29_JE2_BE1.png?91bed"
+    },
+    {
+      "name": "Cartography Table",
+      "path": "https://minecraft.wiki/images/Cartography_Table_%28top_texture%29_JE3.png?d13a5"
+    },
+    {
+      "name": "Fletching Table",
+      "path": "https://minecraft.wiki/images/Fletching_Table_%28top_texture%29_JE2_BE1.png?70e15"
+    },
+    {
+      "name": "Smithing Table",
+      "path": "https://minecraft.wiki/images/Smithing_Table_%28top_texture%29_JE2_BE2.png?f3c07"
+    },
+    {
+      "name": "Grindstone",
+      "path": "https://minecraft.wiki/images/Grindstone_%28front_texture%29_JE2_BE2.png?a7457"
+    },
+    {
+      "name": "Loom",
+      "path": "https://minecraft.wiki/images/Loom_%28top_texture%29_JE2.png?22d77"
+    },
+    {
+      "name": "Furnace",
+      "path": "https://minecraft.wiki/images/Furnace_%28top_texture%29_JE2_BE2.png?22162"
+    },
+    {
+      "name": "Smoker",
+      "path": "https://minecraft.wiki/images/Off_Smoker_%28front_texture%29_JE1_BE1.png?1649b"
+    },
+    {
+      "name": "Blast Furnace",
+      "path": "https://minecraft.wiki/images/Off_Blast_Furnace_%28front_texture%29_JE1_BE1.png?66ca0"
+    },
+    {
+      "name": "Campfire",
+      "path": "https://minecraft.wiki/images/Campfire_%28log_texture%29_JE1_BE1.png?ee930"
+    },
+    {
+      "name": "Anvil",
+      "path": "https://minecraft.wiki/images/Anvil_%28bottom_texture%29_JE2_BE2.png?f53f5"
+    },
+    {
+      "name": "Chipped Anvil",
+      "path": "https://minecraft.wiki/images/Chipped_Anvil_%28top_texture%29_JE2_BE2.png?0b36e"
+    },
+    {
+      "name": "Damaged Anvil",
+      "path": "https://minecraft.wiki/images/Damaged_Anvil_%28top_texture%29_JE2_BE2.png?721e9"
+    },
+    {
+      "name": "Composter",
+      "path": "https://minecraft.wiki/images/Composter_%28top_texture%29_JE1_BE1.png?e0fda"
+    },
+    {
+      "name": "Jukebox",
+      "path": "https://minecraft.wiki/images/Jukebox_%28top_texture%29_JE2_BE2.png?b5c38"
+    },
+    {
+      "name": "Enchanting Table",
+      "path": "https://minecraft.wiki/images/Enchanting_Table_%28side_texture%29_JE4_BE2.png?1f9fa"
+    },
+    {
+      "name": "Brewing Stand",
+      "path": "https://minecraft.wiki/images/Brewing_Stand_%28texture%29_JE3.png?62c6d"
+    },
+    {
+      "name": "Cauldron",
+      "path": "https://minecraft.wiki/images/Cauldron_%28top_texture%29_JE3.png?6950b"
+    },
+    {
+      "name": "Beacon",
+      "path": "https://minecraft.wiki/images/Beacon_%28texture%29_JE4_BE2.png?5f559"
+    },
+    {
+      "name": "Lodestone",
+      "path": "https://minecraft.wiki/images/Lodestone_%28top_texture%29_JE1_BE1.png?d3f75"
+    },
+    {
+      "name": "Ladder",
+      "path": "https://minecraft.wiki/images/Ladder_%28texture%29_JE3_BE2.png?57138"
+    },
+    {
+      "name": "Scaffolding",
+      "path": "https://minecraft.wiki/images/Scaffolding_%28top_texture%29_JE1.png?10512"
+    },
+    {
+      "name": "Bee Nest",
+      "path": "https://minecraft.wiki/images/Bee_Nest_%28top_texture%29_JE1_BE1.png?87ec5"
+    },
+    {
+      "name": "Beehive",
+      "path": "https://minecraft.wiki/images/Beehive_%28top_texture%29_JE1_BE1.png?408a9"
+    },
+    {
+      "name": "Suspicious Sand",
+      "path": "https://minecraft.wiki/images/Suspicious_Sand_%28stage0_texture%29_JE1.png?60633"
+    },
+    {
+      "name": "Suspicious Gravel",
+      "path": "https://minecraft.wiki/images/Suspicious_Gravel_%28stage0_texture%29_JE1_BE1.png?0dbc6"
+    },
+    {
+      "name": "Chiseled Bookshelf",
+      "path": "https://minecraft.wiki/images/Chiseled_Bookshelf_%28empty_texture%29_JE1_BE1.png?74a51"
+    },
+    {
+      "name": "Lectern",
+      "path": "https://minecraft.wiki/images/Lectern_%28top_texture%29_JE1_BE1.png?301aa"
+    },
+    {
+      "name": "Chest",
+      "path": "https://minecraft.wiki/images/Chest_%28top_texture%29_JE1_BE1.png?e128d"
+    },
+    {
+      "name": "Ender Chest",
+      "path": "https://minecraft.wiki/images/Ender_Chest_%28top_texture%29_BE1.png?9a789"
+    },
+    {
+      "name": "Barrel",
+      "path": "https://minecraft.wiki/images/Barrel_%28side_texture%29_JE1_BE1.png?eed05"
+    },
+    {
+      "name": "Shulker Box",
+      "path": "https://minecraft.wiki/images/Shulker_Box_%28top_texture%29_JE1_BE1.png?3cd59"
+    },
+    {
+      "name": "White Shulker Box",
+      "path": "https://minecraft.wiki/images/White_Shulker_Box_%28top_texture%29_JE2_BE2.png?87a1a"
+    },
+    {
+      "name": "Light Gray Shulker Box",
+      "path": "https://minecraft.wiki/images/Light_Gray_Shulker_Box_%28top_texture%29_JE2_BE2.png?29fa6"
+    },
+    {
+      "name": "Gray Shulker Box",
+      "path": "https://minecraft.wiki/images/Gray_Shulker_Box_%28top_texture%29_JE2_BE2.png?be959"
+    },
+    {
+      "name": "Black Shulker Box",
+      "path": "https://minecraft.wiki/images/Black_Shulker_Box_%28top_texture%29_JE2_BE2.png?eaaef"
+    },
+    {
+      "name": "Brown Shulker Box",
+      "path": "https://minecraft.wiki/images/Brown_Shulker_Box_%28top_texture%29_JE2_BE2.png?63eaf"
+    },
+    {
+      "name": "Red Shulker Box",
+      "path": "https://minecraft.wiki/images/Red_Shulker_Box_%28top_texture%29_JE2_BE2.png?3c3a7"
+    },
+    {
+      "name": "Orange Shulker Box",
+      "path": "https://minecraft.wiki/images/Orange_Shulker_Box_%28top_texture%29_JE2_BE2.png?6f363"
+    },
+    {
+      "name": "Yellow Shulker Box",
+      "path": "https://minecraft.wiki/images/Yellow_Shulker_Box_%28top_texture%29_JE2_BE2.png?64aba"
+    },
+    {
+      "name": "Lime Shulker Box",
+      "path": "https://minecraft.wiki/images/Lime_Shulker_Box_%28top_texture%29_JE2_BE2.png?0c31a"
+    },
+    {
+      "name": "Green Shulker Box",
+      "path": "https://minecraft.wiki/images/Green_Shulker_Box_%28top_texture%29_JE2_BE2.png?0fb34"
+    },
+    {
+      "name": "Cyan Shulker Box",
+      "path": "https://minecraft.wiki/images/Cyan_Shulker_Box_%28top_texture%29_JE2_BE2.png?384cd"
+    },
+    {
+      "name": "Light Blue Shulker Box",
+      "path": "https://minecraft.wiki/images/Light_Blue_Shulker_Box_%28top_texture%29_JE2_BE2.png?e838d"
+    },
+    {
+      "name": "Blue Shulker Box",
+      "path": "https://minecraft.wiki/images/Blue_Shulker_Box_%28top_texture%29_JE2_BE2.png?33bdd"
+    },
+    {
+      "name": "Purple Shulker Box",
+      "path": "https://minecraft.wiki/images/Purple_Shulker_Box_%28top_texture%29_JE1_BE1.png?90b43"
+    },
+    {
+      "name": "Magenta Shulker Box",
+      "path": "https://minecraft.wiki/images/Magenta_Shulker_Box_%28top_texture%29_JE2_BE2.png?a3a27"
+    },
+    {
+      "name": "Pink Shulker Box",
+      "path": "https://minecraft.wiki/images/Pink_Shulker_Box_%28top_texture%29_JE2_BE2.png?16d4f"
+    },
+    {
+      "name": "Respawn Anchor",
+      "path": "https://minecraft.wiki/images/Respawn_Anchor_0_%28side_texture%29_JE1_BE1.png?026bf"
+    }
+  ],
+  "Redstone": [
+    {
+      "name": "Redstone Wire",
+      "path": "https://minecraft.wiki/images/Redstone_Wire_Line_%28texture%29_JE2_BE1.png?f2348"
+    },
+    {
+      "name": "Redstone Torch",
+      "path": "https://minecraft.wiki/images/Off_Redstone_Torch_%28texture%29_JE2_BE2.png?b53de"
+    },
+    {
+      "name": "Redstone Repeater",
+      "path": "https://minecraft.wiki/images/Off_Redstone_Repeater_%28texture%29_JE3_BE3.png?c70e2"
+    },
+    {
+      "name": "Redstone Comparator",
+      "path": "https://minecraft.wiki/images/Off_Redstone_Comparator_%28texture%29_JE3_BE2.png?6199e"
+    },
+    {
+      "name": "Target",
+      "path": "https://minecraft.wiki/images/Target_%28top_texture%29_JE1_BE1.png?b5bc8"
+    },
+    {
+      "name": "Copper Bulb",
+      "path": "https://minecraft.wiki/images/Copper_Bulb_%28texture%29.png?dc001"
+    },
+    {
+      "name": "Exposed Copper Bulb",
+      "path": "https://minecraft.wiki/images/Exposed_Copper_Bulb_%28texture%29.png?389ac"
+    },
+    {
+      "name": "Weathered Copper Bulb",
+      "path": "https://minecraft.wiki/images/Weathered_Copper_Bulb_%28texture%29.png?835fb"
+    },
+    {
+      "name": "Oxidized Copper Bulb",
+      "path": "https://minecraft.wiki/images/Oxidized_Copper_Bulb_%28texture%29.png?0cd41"
+    },
+    {
+      "name": "Lever",
+      "path": "https://minecraft.wiki/images/Lever_%28texture%29_JE2_BE2.png?f69ac"
+    },
+    {
+      "name": "Tripwire Hook",
+      "path": "https://minecraft.wiki/images/Tripwire_Hook_%28texture%29_JE2_BE2.png?36cf5"
+    },
+    {
+      "name": "Tripwire",
+      "path": "https://minecraft.wiki/images/Tripwire_%28texture%29_JE3.png?ac8bd"
+    },
+    {
+      "name": "Daylight Detector",
+      "path": "https://minecraft.wiki/images/Daylight_Detector_%28top_texture%29_JE1_BE1.png?ace47"
+    },
+    {
+      "name": "Lightning Rod",
+      "path": "https://minecraft.wiki/images/Lightning_Rod_%28texture%29_JE2.png?8f22b"
+    },
+    {
+      "name": "Piston",
+      "path": "https://minecraft.wiki/images/Piston_%28top_texture%29_JE2_BE2.png?bd430"
+    },
+    {
+      "name": "Piston Head",
+      "path": "https://minecraft.wiki/images/Piston_Head_%28texture%29_JE2_BE2.png?49e2e"
+    },
+    {
+      "name": "Slime Block",
+      "path": "https://minecraft.wiki/images/Slime_Block_%28texture%29_JE2_BE3.png?c8e96"
+    },
+    {
+      "name": "Honey Block",
+      "path": "https://minecraft.wiki/images/Honey_Block_%28top_texture%29_JE1_BE1.png?e3592"
+    },
+    {
+      "name": "Dispenser",
+      "path": "https://minecraft.wiki/images/Dispenser_%28vertical_texture%29_JE2_BE2.png?526b9"
+    },
+    {
+      "name": "Dropper",
+      "path": "https://minecraft.wiki/images/Dropper_%28vertical_texture%29_JE2_BE2.png?62066"
+    },
+    {
+      "name": "Crafter",
+      "path": "https://minecraft.wiki/images/Crafter_%28top_texture%29.png?455a9"
+    },
+    {
+      "name": "Hopper",
+      "path": "https://minecraft.wiki/images/Hopper_%28texture%29_JE2_BE2.png?72218"
+    },
+    {
+      "name": "Trapped Chest",
+      "path": "https://minecraft.wiki/images/Trapped_Chest_%28front_texture%29_BE1.png?6c897"
+    },
+    {
+      "name": "Observer",
+      "path": "https://minecraft.wiki/images/Observer_%28top_texture%29_JE3_BE3.png?6ffde"
+    },
+    {
+      "name": "Note Block",
+      "path": "https://minecraft.wiki/images/Jukebox_%28side_texture%29_JE2_BE2.png?dc5f8"
+    },
+    {
+      "name": "TNT",
+      "path": "https://minecraft.wiki/images/TNT_%28top_texture%29_JE2_BE2.png?49529"
+    },
+    {
+      "name": "Redstone Lamp",
+      "path": "https://minecraft.wiki/images/Off_Redstone_Lamp_%28texture%29_JE3_BE2.png?4158f"
+    },
+    {
+      "name": "Bell",
+      "path": "https://minecraft.wiki/images/Bell_%28top_texture%29_JE1_BE1.png?fa8ad"
+    },
+    {
+      "name": "Rail",
+      "path": "https://minecraft.wiki/images/Rail_%28texture%29_JE3_BE2.png?ad62b"
+    },
+    {
+      "name": "Powered Rail",
+      "path": "https://minecraft.wiki/images/Off_Powered_Rail_%28texture%29_JE2_BE2.png?30405"
+    },
+    {
+      "name": "Detector Rail",
+      "path": "https://minecraft.wiki/images/Off_Detector_Rail_%28texture%29_JE2_BE2.png?b76bc"
+    },
+    {
+      "name": "Activator Rail",
+      "path": "https://minecraft.wiki/images/Off_Activator_Rail_%28texture%29_JE2_BE2.png?648c7"
+    },
+    {
+      "name": "Oak Door",
+      "path": "https://minecraft.wiki/images/Oak_Door_%28top_texture%29_JE4_BE2.png?b81cf"
+    },
+    {
+      "name": "Spruce Door",
+      "path": "https://minecraft.wiki/images/Spruce_Door_%28top_texture%29_JE3_BE2.png?712b6"
+    },
+    {
+      "name": "Birch Door",
+      "path": "https://minecraft.wiki/images/Birch_Door_%28top_texture%29_JE3_BE2.png?bed5d"
+    },
+    {
+      "name": "Jungle Door",
+      "path": "https://minecraft.wiki/images/Jungle_Door_%28top_texture%29_JE3_BE2.png?08d4d"
+    },
+    {
+      "name": "Acacia Door",
+      "path": "https://minecraft.wiki/images/Acacia_Door_%28top_texture%29_JE3_BE2.png?1ecdf"
+    },
+    {
+      "name": "Dark Oak Door",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Door_%28top_texture%29_JE3_BE2.png?a02e0"
+    },
+    {
+      "name": "Mangrove Door",
+      "path": "https://minecraft.wiki/images/Mangrove_Door_%28top_texture%29_JE1_BE1.png?caf6b"
+    },
+    {
+      "name": "Cherry Door",
+      "path": "https://minecraft.wiki/images/Cherry_Door_%28top_texture%29_JE2.png?94dd7"
+    },
+    {
+      "name": "Bamboo Door",
+      "path": "https://minecraft.wiki/images/Bamboo_Door_%28top_texture%29_JE1_BE1.png?804a9"
+    },
+    {
+      "name": "Crimson Door",
+      "path": "https://minecraft.wiki/images/Crimson_Door_%28top_texture%29_JE2_BE2.png?a7be8"
+    },
+    {
+      "name": "Warped Door",
+      "path": "https://minecraft.wiki/images/Warped_Door_%28top_texture%29_JE2_BE2.png?2fcf6"
+    },
+    {
+      "name": "Iron Door",
+      "path": "https://minecraft.wiki/images/Iron_Door_%28top_texture%29_JE2_BE3.png?7e2b2"
+    },
+    {
+      "name": "Copper Door",
+      "path": "https://minecraft.wiki/images/Copper_Door_%28top_texture%29.png?4811b"
+    },
+    {
+      "name": "Exposed Copper Door",
+      "path": "https://minecraft.wiki/images/Exposed_Copper_Door_%28top_texture%29.png?314e6"
+    },
+    {
+      "name": "Weathered Copper Door",
+      "path": "https://minecraft.wiki/images/Weathered_Copper_Door_%28top_texture%29.png?c3ddf"
+    },
+    {
+      "name": "Oxidized Copper Door",
+      "path": "https://minecraft.wiki/images/Oxidized_Copper_Door_%28top_texture%29.png?433fb"
+    },
+    {
+      "name": "Oak Trapdoor",
+      "path": "https://minecraft.wiki/images/Oak_Trapdoor_%28texture%29_JE2_BE2.png?7ca3c"
+    },
+    {
+      "name": "Spruce Trapdoor",
+      "path": "https://minecraft.wiki/images/Spruce_Trapdoor_%28texture%29_JE2_BE2.png?88da1"
+    },
+    {
+      "name": "Birch Trapdoor",
+      "path": "https://minecraft.wiki/images/Birch_Trapdoor_%28texture%29_JE1_BE1.png?b205b"
+    },
+    {
+      "name": "Jungle Trapdoor",
+      "path": "https://minecraft.wiki/images/Jungle_Trapdoor_%28texture%29_JE1_BE1.png?c4d9b"
+    },
+    {
+      "name": "Acacia Trapdoor",
+      "path": "https://minecraft.wiki/images/Acacia_Trapdoor_%28texture%29_JE1_BE1.png?cab3f"
+    },
+    {
+      "name": "Dark Oak Trapdoor",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Trapdoor_%28texture%29_JE1_BE1.png?bd0ae"
+    },
+    {
+      "name": "Mangrove Trapdoor",
+      "path": "https://minecraft.wiki/images/Mangrove_Trapdoor_%28texture%29_JE1_BE1.png?8bfc6"
+    },
+    {
+      "name": "Cherry Trapdoor",
+      "path": "https://minecraft.wiki/images/Cherry_Trapdoor_%28texture%29_JE1_BE1.png?dc6b0"
+    },
+    {
+      "name": "Bamboo Trapdoor",
+      "path": "https://minecraft.wiki/images/Bamboo_Trapdoor_%28texture%29_JE1_BE1.png?952a5"
+    },
+    {
+      "name": "Crimson Trapdoor",
+      "path": "https://minecraft.wiki/images/Crimson_Trapdoor_%28texture%29_JE1_BE1.png?e01d4"
+    },
+    {
+      "name": "Warped Trapdoor",
+      "path": "https://minecraft.wiki/images/Warped_Trapdoor_%28texture%29_JE1_BE1.png?417ad"
+    },
+    {
+      "name": "Iron Trapdoor",
+      "path": "https://minecraft.wiki/images/Iron_Trapdoor_%28texture%29_JE2_BE2.png?c07c1"
+    },
+    {
+      "name": "Copper Trapdoor",
+      "path": "https://minecraft.wiki/images/Copper_Trapdoor_%28texture%29.png?c3213"
+    },
+    {
+      "name": "Exposed Copper Trapdoor",
+      "path": "https://minecraft.wiki/images/Exposed_Copper_Trapdoor_%28texture%29.png?f6a8f"
+    },
+    {
+      "name": "Weathered Copper Trapdoor",
+      "path": "https://minecraft.wiki/images/Weathered_Copper_Trapdoor_%28texture%29.png?90baa"
+    },
+    {
+      "name": "Oxidized Copper Trapdoor",
+      "path": "https://minecraft.wiki/images/Oxidized_Copper_Trapdoor_%28texture%29.png?03ef0"
+    },
+    {
+      "name": "Sculk Sensor",
+      "path": "https://minecraft.wiki/images/Sculk_Sensor_%28top_texture%29_JE1_BE2.png?6b573"
+    },
+    {
+      "name": "Calibrated Sculk Sensor",
+      "path": "https://minecraft.wiki/images/Calibrated_Sculk_Sensor_%28amethyst_texture%29_JE1_BE1.png?7311f"
+    },
+    {
+      "name": "Sculk Catalyst",
+      "path": "https://minecraft.wiki/images/Sculk_Catalyst_%28top_texture%29_JE1_BE1.png?16c37"
+    },
+    {
+      "name": "Sculk Shrieker",
+      "path": "https://minecraft.wiki/images/Sculk_Shrieker_%28top_texture%29_JE1_BE2.png?027da"
+    }
+  ],
+  "Creative/Commands only": [
+    {
+      "name": "Reinforced Deepslate",
+      "path": "https://minecraft.wiki/images/Reinforced_Deepslate_%28top_texture%29_JE1_BE1.png?9714e"
+    },
+    {
+      "name": "Budding Amethyst",
+      "path": "https://minecraft.wiki/images/Budding_Amethyst_%28texture%29_JE3_BE1.png?52d85"
+    },
+    {
+      "name": "Bedrock",
+      "path": "https://minecraft.wiki/images/Bedrock_%28texture%29_JE2_BE2.png?e29d0"
+    },
+    {
+      "name": "End Portal Frame",
+      "path": "https://minecraft.wiki/images/End_Portal_Frame_%28texture%29_JE4.png?7cfd7"
+    },
+    {
+      "name": "Monster Spawner",
+      "path": "https://minecraft.wiki/images/Spawner_%28texture%29_JE3_BE3.png?ea8e6"
+    },
+    {
+      "name": "Trial Spawner",
+      "path": "https://minecraft.wiki/images/Inactive_Trial_Spawner_%28top_texture%29.png?abeb5"
+    },
+    {
+      "name": "Ominous Trial Spawner",
+      "path": "https://minecraft.wiki/images/Inactive_Ominous_Trial_Spawner_%28top_texture%29.png?1be2e"
+    },
+    {
+      "name": "Vault",
+      "path": "https://minecraft.wiki/images/Vault_%28top_texture%29.png?2a91b"
+    },
+    {
+      "name": "Ominous Vault",
+      "path": "https://minecraft.wiki/images/Ominous_Vault_%28top_texture%29_JE1.png?ca5f4"
+    },
+    {
+      "name": "Jigsaw Block",
+      "path": "https://minecraft.wiki/images/Jigsaw_Block_%28lock_texture%29_JE1_BE1.png?88b6e"
+    },
+    {
+      "name": "Structure Block",
+      "path": "https://minecraft.wiki/images/Structure_Block_%28texture%29_JE2_BE1.png?217bb"
+    },
+    {
+      "name": "Structure Void",
+      "path": "https://minecraft.wiki/images/Structure_Void_%28texture%29_BE1.png?cd000"
+    },
+    {
+      "name": "Structure Air",
+      "path": "https://minecraft.wiki/images/Invicon_Structure_Air.png?80ad3"
+    },
+    {
+      "name": "Barrier",
+      "path": "https://minecraft.wiki/images/Barrier_%28held%29_JE2_BE2.png?c4806"
+    },
+    {
+      "name": "Light Block",
+      "path": "https://minecraft.wiki/images/Light_0_JE3.png?52a72"
+    },
+    {
+      "name": "Old Stonecutter",
+      "path": "https://minecraft.wiki/images/Stonecutter_%28top_texture%29_BE1.png?38786"
+    },
+    {
+      "name": "Nether Reactor Core",
+      "path": "https://minecraft.wiki/images/Nether_Reactor_Core_%28texture%29_BE2.png?b6a47"
+    },
+    {
+      "name": "Glowing Obsidian",
+      "path": "https://minecraft.wiki/images/Glowing_Obsidian_%28texture%29_BE1.png?0c315"
+    }
+  ],
+  "Education": [
+    {
+      "name": "Border",
+      "path": "https://minecraft.wiki/images/Border_%28texture%29_EE1.png?f76a4"
+    },
+    {
+      "name": "Deny",
+      "path": "https://minecraft.wiki/images/Deny_%28texture%29_EE1.png?0e643"
+    },
+    {
+      "name": "Allow",
+      "path": "https://minecraft.wiki/images/Allow_%28texture%29_EE1.png?5be8c"
+    },
+    {
+      "name": "Compound Creator",
+      "path": "https://minecraft.wiki/images/Compound_Creator_%28side_texture_1%29_EE1.png?c4038"
+    },
+    {
+      "name": "Element Constructor",
+      "path": "https://minecraft.wiki/images/Element_Constructor_%28front_texture%29_EE1.png?493d2"
+    },
+    {
+      "name": "Lab Table",
+      "path": "https://minecraft.wiki/images/Lab_Table_%28front_texture%29_EE1.png?fee57"
+    },
+    {
+      "name": "Material Reducer",
+      "path": "https://minecraft.wiki/images/Material_Reducer_%28front_texture%29_EE1.png?6e76c"
+    },
+    {
+      "name": "Underwater TNT",
+      "path": "https://minecraft.wiki/images/Underwater_TNT_%28top_texture%29_EE1.png?b5a57"
+    },
+    {
+      "name": "Underwater Torch",
+      "path": "https://minecraft.wiki/images/Underwater_Torch_%28texture%29_EE1.png?770d6"
+    },
+    {
+      "name": "Blue Torch",
+      "path": "https://minecraft.wiki/images/Blue_Torch_%28texture%29_EE1.png?54b7c"
+    },
+    {
+      "name": "Purple Torch",
+      "path": "https://minecraft.wiki/images/Purple_Torch_%28texture%29_EE1.png?b6285"
+    },
+    {
+      "name": "Green Torch",
+      "path": "https://minecraft.wiki/images/Green_Torch_%28texture%29_EE1.png?aad2f"
+    },
+    {
+      "name": "Red Torch",
+      "path": "https://minecraft.wiki/images/Red_Torch_%28texture%29_EE1.png?7753f"
+    },
+    {
+      "name": "Hardened Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Glass_%28texture%29_EE1.png?d3cd0"
+    },
+    {
+      "name": "Hardened White Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_White_Stained_Glass_%28top_texture%29_EE1.png?cab21"
+    },
+    {
+      "name": "Hardened Light Gray Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Light_Gray_Stained_Glass_%28texture%29_EE1.png?f6461"
+    },
+    {
+      "name": "Hardened Gray Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Gray_Stained_Glass_%28texture%29_EE1.png?b4db9"
+    },
+    {
+      "name": "Hardened Black Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Black_Stained_Glass_%28texture%29_EE1.png?f9a6a"
+    },
+    {
+      "name": "Hardened Brown Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Brown_Stained_Glass_%28texture%29_EE1.png?c73ec"
+    },
+    {
+      "name": "Hardened Red Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Red_Stained_Glass_%28texture%29_EE1.png?f330e"
+    },
+    {
+      "name": "Hardened Orange Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Orange_Stained_Glass_%28texture%29_EE1.png?14ef7"
+    },
+    {
+      "name": "Hardened Yellow Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Yellow_Stained_Glass_%28texture%29_EE1.png?8fad1"
+    },
+    {
+      "name": "Hardened Lime Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Lime_Stained_Glass_%28texture%29_EE1.png?adb2a"
+    },
+    {
+      "name": "Hardened Green Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Green_Stained_Glass_%28texture%29_EE1.png?f90a7"
+    },
+    {
+      "name": "Hardened Cyan Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Cyan_Stained_Glass_%28texture%29_EE1.png?27036"
+    },
+    {
+      "name": "Hardened Light Blue Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Light_Blue_Stained_Glass_%28texture%29_EE1.png?8344f"
+    },
+    {
+      "name": "Hardened Blue Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Blue_Stained_Glass_%28texture%29_EE1.png?cd9d1"
+    },
+    {
+      "name": "Hardened Purple Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Purple_Stained_Glass_%28texture%29_EE1.png?f5a97"
+    },
+    {
+      "name": "Hardened Magenta Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Magenta_Stained_Glass_%28texture%29_EE1.png?0c470"
+    },
+    {
+      "name": "Hardened Pink Stained Glass",
+      "path": "https://minecraft.wiki/images/Hardened_Pink_Stained_Glass_%28texture%29_EE1.png?e48fc"
+    }
+  ],
+  "Elements": [
+    {
+      "name": "Unknown Element",
+      "path": "https://minecraft.wiki/images/Unknown_Element_%28texture%29.png?7e29b"
+    },
+    {
+      "name": "Hydrogen",
+      "path": "https://minecraft.wiki/images/Hydrogen_%28texture%29.png?5b7ff"
+    },
+    {
+      "name": "Helium",
+      "path": "https://minecraft.wiki/images/Helium_%28texture%29.png?946f6"
+    },
+    {
+      "name": "Lithium",
+      "path": "https://minecraft.wiki/images/Lithium_%28texture%29.png?2bd31"
+    },
+    {
+      "name": "Beryllium",
+      "path": "https://minecraft.wiki/images/Beryllium_%28texture%29.png?4c105"
+    },
+    {
+      "name": "Boron",
+      "path": "https://minecraft.wiki/images/Boron_%28texture%29.png?f14d0"
+    },
+    {
+      "name": "Carbon",
+      "path": "https://minecraft.wiki/images/Carbon_%28texture%29.png?aaadb"
+    },
+    {
+      "name": "Nitrogen",
+      "path": "https://minecraft.wiki/images/Nitrogen_%28texture%29.png?1c6c1"
+    },
+    {
+      "name": "Oxygen",
+      "path": "https://minecraft.wiki/images/Oxygen_%28texture%29.png?cf914"
+    },
+    {
+      "name": "Fluorine",
+      "path": "https://minecraft.wiki/images/Fluorine_%28texture%29.png?c27dd"
+    },
+    {
+      "name": "Neon",
+      "path": "https://minecraft.wiki/images/Neon_%28texture%29.png?fd84a"
+    },
+    {
+      "name": "Sodium",
+      "path": "https://minecraft.wiki/images/Sodium_%28texture%29.png?d8f47"
+    },
+    {
+      "name": "Magnesium",
+      "path": "https://minecraft.wiki/images/Magnesium_%28texture%29.png?80b26"
+    },
+    {
+      "name": "Aluminum",
+      "path": "https://minecraft.wiki/images/Aluminum_%28texture%29.png?e28ba"
+    },
+    {
+      "name": "Silicon",
+      "path": "https://minecraft.wiki/images/Silicon_%28texture%29.png?117d1"
+    },
+    {
+      "name": "Phosphorus",
+      "path": "https://minecraft.wiki/images/Phosphorus_%28texture%29.png?74c5e"
+    },
+    {
+      "name": "Sulfur",
+      "path": "https://minecraft.wiki/images/Sulfur_%28texture%29.png?b69b5"
+    },
+    {
+      "name": "Chlorine",
+      "path": "https://minecraft.wiki/images/Chlorine_%28texture%29.png?ab9fd"
+    },
+    {
+      "name": "Argon",
+      "path": "https://minecraft.wiki/images/Argon_%28texture%29.png?48ed8"
+    },
+    {
+      "name": "Potassium",
+      "path": "https://minecraft.wiki/images/Potassium_%28texture%29.png?89152"
+    },
+    {
+      "name": "Calcium",
+      "path": "https://minecraft.wiki/images/Calcium_%28texture%29.png?30951"
+    },
+    {
+      "name": "Scandium",
+      "path": "https://minecraft.wiki/images/Scandium_%28texture%29.png?81032"
+    },
+    {
+      "name": "Titanium",
+      "path": "https://minecraft.wiki/images/Titanium_%28texture%29.png?c24cc"
+    },
+    {
+      "name": "Vanadium",
+      "path": "https://minecraft.wiki/images/Vanadium_%28texture%29.png?c7615"
+    },
+    {
+      "name": "Chromium",
+      "path": "https://minecraft.wiki/images/Chromium_%28texture%29.png?20e48"
+    },
+    {
+      "name": "Manganese",
+      "path": "https://minecraft.wiki/images/Manganese_%28texture%29.png?d8922"
+    },
+    {
+      "name": "Iron",
+      "path": "https://minecraft.wiki/images/Iron_%28texture%29.png?a57b6"
+    },
+    {
+      "name": "Cobalt",
+      "path": "https://minecraft.wiki/images/Cobalt_%28texture%29.png?eac23"
+    },
+    {
+      "name": "Nickel",
+      "path": "https://minecraft.wiki/images/Nickel_%28texture%29.png?bdc91"
+    },
+    {
+      "name": "Copper",
+      "path": "https://minecraft.wiki/images/Copper_%28texture%29.png?0e1d6"
+    },
+    {
+      "name": "Zinc",
+      "path": "https://minecraft.wiki/images/Zinc_%28texture%29.png?4e090"
+    },
+    {
+      "name": "Gallium",
+      "path": "https://minecraft.wiki/images/Gallium_%28texture%29.png?fbc29"
+    },
+    {
+      "name": "Germanium",
+      "path": "https://minecraft.wiki/images/Germanium_%28texture%29.png?9dd89"
+    },
+    {
+      "name": "Arsenic",
+      "path": "https://minecraft.wiki/images/Arsenic_%28texture%29.png?94319"
+    },
+    {
+      "name": "Selenium",
+      "path": "https://minecraft.wiki/images/Selenium_%28texture%29.png?f3175"
+    },
+    {
+      "name": "Bromine",
+      "path": "https://minecraft.wiki/images/Bromine_%28texture%29.png?a8be6"
+    },
+    {
+      "name": "Krypton",
+      "path": "https://minecraft.wiki/images/Krypton_%28texture%29.png?ecad3"
+    },
+    {
+      "name": "Rubidium",
+      "path": "https://minecraft.wiki/images/Rubidium_%28texture%29.png?6e9d8"
+    },
+    {
+      "name": "Strontium",
+      "path": "https://minecraft.wiki/images/Strontium_%28texture%29.png?c5c44"
+    },
+    {
+      "name": "Yttrium",
+      "path": "https://minecraft.wiki/images/Yttrium_%28texture%29.png?9136a"
+    },
+    {
+      "name": "Zirconium",
+      "path": "https://minecraft.wiki/images/Zirconium_%28texture%29.png?b74cd"
+    },
+    {
+      "name": "Niobium",
+      "path": "https://minecraft.wiki/images/Niobium_%28texture%29.png?d4b4d"
+    },
+    {
+      "name": "Molybdenum",
+      "path": "https://minecraft.wiki/images/Molybdenum_%28texture%29.png?8d125"
+    },
+    {
+      "name": "Technetium",
+      "path": "https://minecraft.wiki/images/Technetium_%28texture%29.png?ae7ef"
+    },
+    {
+      "name": "Ruthenium",
+      "path": "https://minecraft.wiki/images/Ruthenium_%28texture%29.png?0efb9"
+    },
+    {
+      "name": "Rhodium",
+      "path": "https://minecraft.wiki/images/Rhodium_%28texture%29.png?5ce3c"
+    },
+    {
+      "name": "Palladium",
+      "path": "https://minecraft.wiki/images/Palladium_%28texture%29.png?f3d20"
+    },
+    {
+      "name": "Silver",
+      "path": "https://minecraft.wiki/images/Silver_%28texture%29.png?684bd"
+    },
+    {
+      "name": "Cadmium",
+      "path": "https://minecraft.wiki/images/Cadmium_%28texture%29.png?e59fc"
+    },
+    {
+      "name": "Indium",
+      "path": "https://minecraft.wiki/images/Indium_%28texture%29.png?41d3f"
+    },
+    {
+      "name": "Tin",
+      "path": "https://minecraft.wiki/images/Tin_%28texture%29.png?7b22d"
+    },
+    {
+      "name": "Antimony",
+      "path": "https://minecraft.wiki/images/Antimony_%28texture%29.png?240dc"
+    },
+    {
+      "name": "Tellurium",
+      "path": "https://minecraft.wiki/images/Tellurium_%28texture%29.png?d5eeb"
+    },
+    {
+      "name": "Iodine",
+      "path": "https://minecraft.wiki/images/Iodine_%28texture%29.png?31922"
+    },
+    {
+      "name": "Xenon",
+      "path": "https://minecraft.wiki/images/Xenon_%28texture%29.png?2ad8d"
+    },
+    {
+      "name": "Cesium",
+      "path": "https://minecraft.wiki/images/Cesium_%28texture%29.png?338e6"
+    },
+    {
+      "name": "Barium",
+      "path": "https://minecraft.wiki/images/Barium_%28texture%29.png?72697"
+    },
+    {
+      "name": "Lanthanum",
+      "path": "https://minecraft.wiki/images/Lanthanum_%28texture%29.png?bcf57"
+    },
+    {
+      "name": "Cerium",
+      "path": "https://minecraft.wiki/images/Cerium_%28texture%29.png?eda6d"
+    },
+    {
+      "name": "Praseodymium",
+      "path": "https://minecraft.wiki/images/Praseodymium_%28texture%29.png?f49ba"
+    },
+    {
+      "name": "Neodymium",
+      "path": "https://minecraft.wiki/images/Neodymium_%28texture%29.png?bbbc7"
+    },
+    {
+      "name": "Promethium",
+      "path": "https://minecraft.wiki/images/Promethium_%28texture%29.png?32321"
+    },
+    {
+      "name": "Samarium",
+      "path": "https://minecraft.wiki/images/Samarium_%28texture%29.png?e2610"
+    },
+    {
+      "name": "Europium",
+      "path": "https://minecraft.wiki/images/Europium_%28texture%29.png?fdace"
+    },
+    {
+      "name": "Gadolinium",
+      "path": "https://minecraft.wiki/images/Gadolinium_%28texture%29.png?b5be5"
+    },
+    {
+      "name": "Terbium",
+      "path": "https://minecraft.wiki/images/Terbium_%28texture%29.png?aaefa"
+    },
+    {
+      "name": "Dysprosium",
+      "path": "https://minecraft.wiki/images/Dysprosium_%28texture%29.png?50a7e"
+    },
+    {
+      "name": "Holmium",
+      "path": "https://minecraft.wiki/images/Holmium_%28texture%29.png?c97fc"
+    },
+    {
+      "name": "Erbium",
+      "path": "https://minecraft.wiki/images/Erbium_%28texture%29.png?9b907"
+    },
+    {
+      "name": "Thulium",
+      "path": "https://minecraft.wiki/images/Thulium_%28texture%29.png?24b4b"
+    },
+    {
+      "name": "Ytterbium",
+      "path": "https://minecraft.wiki/images/Ytterbium_%28texture%29.png?d73af"
+    },
+    {
+      "name": "Lutetium",
+      "path": "https://minecraft.wiki/images/Lutetium_%28texture%29.png?d422b"
+    },
+    {
+      "name": "Hafnium",
+      "path": "https://minecraft.wiki/images/Hafnium_%28texture%29.png?fb436"
+    },
+    {
+      "name": "Tantalum",
+      "path": "https://minecraft.wiki/images/Tantalum_%28texture%29.png?37996"
+    },
+    {
+      "name": "Tungsten",
+      "path": "https://minecraft.wiki/images/Tungsten_%28texture%29.png?9683a"
+    },
+    {
+      "name": "Rhenium",
+      "path": "https://minecraft.wiki/images/Rhenium_%28texture%29.png?13b2e"
+    },
+    {
+      "name": "Osmium",
+      "path": "https://minecraft.wiki/images/Osmium_%28texture%29.png?35123"
+    },
+    {
+      "name": "Iridium",
+      "path": "https://minecraft.wiki/images/Iridium_%28texture%29.png?393de"
+    },
+    {
+      "name": "Platinum",
+      "path": "https://minecraft.wiki/images/Platinum_%28texture%29.png?e44c2"
+    },
+    {
+      "name": "Gold",
+      "path": "https://minecraft.wiki/images/Gold_%28texture%29.png?e3fca"
+    },
+    {
+      "name": "Mercury",
+      "path": "https://minecraft.wiki/images/Mercury_%28texture%29.png?97f1d"
+    },
+    {
+      "name": "Thallium",
+      "path": "https://minecraft.wiki/images/Thallium_%28texture%29.png?37c1b"
+    },
+    {
+      "name": "Lead",
+      "path": "https://minecraft.wiki/images/Lead_%28texture%29.png?c0de5"
+    },
+    {
+      "name": "Bismuth",
+      "path": "https://minecraft.wiki/images/Bismuth_%28texture%29.png?c0175"
+    },
+    {
+      "name": "Polonium",
+      "path": "https://minecraft.wiki/images/Polonium_%28texture%29.png?8e27c"
+    },
+    {
+      "name": "Astatine",
+      "path": "https://minecraft.wiki/images/Astatine_%28texture%29.png?e62fb"
+    },
+    {
+      "name": "Radon",
+      "path": "https://minecraft.wiki/images/Radon_%28texture%29.png?9ec40"
+    },
+    {
+      "name": "Francium",
+      "path": "https://minecraft.wiki/images/Francium_%28texture%29.png?edc4a"
+    },
+    {
+      "name": "Radium",
+      "path": "https://minecraft.wiki/images/Radium_%28texture%29.png?dbd88"
+    },
+    {
+      "name": "Actinium",
+      "path": "https://minecraft.wiki/images/Actinium_%28texture%29.png?0648f"
+    },
+    {
+      "name": "Thorium",
+      "path": "https://minecraft.wiki/images/Thorium_%28texture%29.png?0c79b"
+    },
+    {
+      "name": "Protactinium",
+      "path": "https://minecraft.wiki/images/Protactinium_%28texture%29.png?c674e"
+    },
+    {
+      "name": "Uranium",
+      "path": "https://minecraft.wiki/images/Uranium_%28texture%29.png?cd0fb"
+    },
+    {
+      "name": "Neptunium",
+      "path": "https://minecraft.wiki/images/Neptunium_%28texture%29.png?c4332"
+    },
+    {
+      "name": "Plutonium",
+      "path": "https://minecraft.wiki/images/Plutonium_%28texture%29.png?5365d"
+    },
+    {
+      "name": "Americium",
+      "path": "https://minecraft.wiki/images/Americium_%28texture%29.png?0e5a5"
+    },
+    {
+      "name": "Curium",
+      "path": "https://minecraft.wiki/images/Curium_%28texture%29.png?324fa"
+    },
+    {
+      "name": "Berkelium",
+      "path": "https://minecraft.wiki/images/Berkelium_%28texture%29.png?df37f"
+    },
+    {
+      "name": "Californium",
+      "path": "https://minecraft.wiki/images/Californium_%28texture%29.png?0720e"
+    },
+    {
+      "name": "Einsteinium",
+      "path": "https://minecraft.wiki/images/Einsteinium_%28texture%29.png?14a34"
+    },
+    {
+      "name": "Fermium",
+      "path": "https://minecraft.wiki/images/Fermium_%28texture%29.png?599fb"
+    },
+    {
+      "name": "Mendelevium",
+      "path": "https://minecraft.wiki/images/Mendelevium_%28texture%29.png?59bb0"
+    },
+    {
+      "name": "Nobelium",
+      "path": "https://minecraft.wiki/images/Nobelium_%28texture%29.png?7c55f"
+    },
+    {
+      "name": "Lawrencium",
+      "path": "https://minecraft.wiki/images/Lawrencium_%28texture%29.png?951a2"
+    },
+    {
+      "name": "Rutherfordium",
+      "path": "https://minecraft.wiki/images/Rutherfordium_%28texture%29.png?cf25b"
+    },
+    {
+      "name": "Dubnium",
+      "path": "https://minecraft.wiki/images/Dubnium_%28texture%29.png?73cc0"
+    },
+    {
+      "name": "Seaborgium",
+      "path": "https://minecraft.wiki/images/Seaborgium_%28texture%29.png?25b34"
+    },
+    {
+      "name": "Bohrium",
+      "path": "https://minecraft.wiki/images/Bohrium_%28texture%29.png?18a4c"
+    },
+    {
+      "name": "Hassium",
+      "path": "https://minecraft.wiki/images/Hassium_%28texture%29.png?076a8"
+    },
+    {
+      "name": "Meitnerium",
+      "path": "https://minecraft.wiki/images/Meitnerium_%28texture%29.png?43fc7"
+    },
+    {
+      "name": "Darmstadtium",
+      "path": "https://minecraft.wiki/images/Darmstadtium_%28texture%29.png?e3e6c"
+    },
+    {
+      "name": "Roentgenium",
+      "path": "https://minecraft.wiki/images/Roentgenium_%28texture%29.png?15fe9"
+    },
+    {
+      "name": "Copernicium",
+      "path": "https://minecraft.wiki/images/Copernicium_%28texture%29.png?d253e"
+    },
+    {
+      "name": "Nihonium",
+      "path": "https://minecraft.wiki/images/Nihonium_%28texture%29.png?80661"
+    },
+    {
+      "name": "Flerovium",
+      "path": "https://minecraft.wiki/images/Flerovium_%28texture%29.png?c1279"
+    },
+    {
+      "name": "Moscovium",
+      "path": "https://minecraft.wiki/images/Moscovium_%28texture%29.png?136d5"
+    },
+    {
+      "name": "Livermorium",
+      "path": "https://minecraft.wiki/images/Livermorium_%28texture%29.png?4d27b"
+    },
+    {
+      "name": "Tennessine",
+      "path": "https://minecraft.wiki/images/Tennessine_%28texture%29.png?f6edf"
+    },
+    {
+      "name": "Oganesson",
+      "path": "https://minecraft.wiki/images/Oganesson_%28texture%29.png?fffe4"
+    }
+  ],
+  "Debug textures": [
+    {
+      "name": "debug1.png",
+      "path": "https://minecraft.wiki/images/Debug_%28texture%29_JE1.png?f30cf"
+    },
+    {
+      "name": "debug2.png",
+      "path": "https://minecraft.wiki/images/Debug2_%28texture%29_JE1.png?1e714"
+    },
+    {
+      "name": "missingno",
+      "path": "https://minecraft.wiki/images/Missing_Texture_JE4.png?db402"
+    },
+    {
+      "name": "missing_texture.png",
+      "path": "https://minecraft.wiki/images/Missing_Texture_BE1.png?1508d"
+    },
+    {
+      "name": "missing_tile.png",
+      "path": "https://minecraft.wiki/images/Info_update_1_20_80.png?8c118"
+    }
+  ],
+  "Animated Textures": [
+    {
+      "name": "Magma Block",
+      "path": "https://minecraft.wiki/images/Magma_Block_%28texture%29_JE2_BE2.png?e922e"
+    },
+    {
+      "name": "Sea Lantern",
+      "path": "https://minecraft.wiki/images/Sea_Lantern_%28texture%29_JE1_BE1.png?e7ab0"
+    },
+    {
+      "name": "Prismarine",
+      "path": "https://minecraft.wiki/images/Prismarine_%28texture%29_JE2_BE2.png?e237e"
+    },
+    {
+      "name": "Seagrass",
+      "path": "https://minecraft.wiki/images/Seagrass_%28texture%29_JE1.png?e670a"
+    },
+    {
+      "name": "Tall Seagrass",
+      "path": "https://minecraft.wiki/images/Tall_Seagrass_%28top_texture%29_JE1.png?1a6bb"
+    },
+    {
+      "name": "Kelp",
+      "path": "https://minecraft.wiki/images/Kelp_%28texture%29_JE3.png?08519"
+    },
+    {
+      "name": "Kelp Plant",
+      "path": "https://minecraft.wiki/images/Kelp_Plant_%28texture%29_JE3.png?b3bdd"
+    },
+    {
+      "name": "Sculk",
+      "path": "https://minecraft.wiki/images/Sculk_%28texture%29_JE1_BE1.png?cecda"
+    },
+    {
+      "name": "Sculk Vein",
+      "path": "https://minecraft.wiki/images/Sculk_Vein_%28texture%29_JE1_BE1.png?28d70"
+    },
+    {
+      "name": "Lantern",
+      "path": "https://minecraft.wiki/images/Lantern_%28texture%29_JE1_BE1.png?2019d"
+    },
+    {
+      "name": "Soul Lantern",
+      "path": "https://minecraft.wiki/images/Soul_Lantern_%28texture%29_JE2_BE1.png?db6a1"
+    },
+    {
+      "name": "Soul Campfire",
+      "path": "https://minecraft.wiki/images/Soul_Campfire_%28fire_texture%29_JE1_BE1.png?5308b"
+    },
+    {
+      "name": "Chain Command Block",
+      "path": "https://minecraft.wiki/images/Chain_Command_Block_%28front_texture%29_JE3_BE2.png?52667"
+    },
+    {
+      "name": "Impulse Command Block",
+      "path": "https://minecraft.wiki/images/Impulse_Command_Block_%28front_texture%29_JE4_BE2.png?e3973"
+    },
+    {
+      "name": "Repeating Command Block",
+      "path": "https://minecraft.wiki/images/Repeating_Command_Block_%28front_texture%29_JE4_BE2.png?33b7e"
+    },
+    {
+      "name": "Bubble Column",
+      "path": "https://minecraft.wiki/images/Upwards_Bubble_Column_%28top_texture%29_BE1.png?1886e"
+    },
+    {
+      "name": "Water",
+      "path": "https://minecraft.wiki/images/Water_%28texture%29_JE4.png?358be"
+    },
+    {
+      "name": "Flowing Water",
+      "path": "https://minecraft.wiki/images/Flowing_Water_%28texture%29_JE5.png?e0d0b"
+    },
+    {
+      "name": "Lava",
+      "path": "https://minecraft.wiki/images/Lava_%28texture%29_JE5.png?3247c"
+    },
+    {
+      "name": "Flowing Lava",
+      "path": "https://minecraft.wiki/images/Flowing_Lava_%28texture%29_JE1.png?24a65"
+    },
+    {
+      "name": "Fire",
+      "path": "https://minecraft.wiki/images/Fire_0_%28texture%29_JE2_BE2.png?8fbc4"
+    },
+    {
+      "name": "Soul Fire",
+      "path": "https://minecraft.wiki/images/Soul_Fire_0_%28texture%29_JE1_BE1.png?cdf1b"
+    },
+    {
+      "name": "Nether Portal",
+      "path": "https://minecraft.wiki/images/Nether_Portal_%28texture%29_JE1_BE1.png?ab4e2"
+    },
+    {
+      "name": "Heat Block",
+      "path": "https://minecraft.wiki/images/Heat_Block_%28texture%29_EE1.png?b93d7"
+    }
+  ],
+  "Block Entity Textures": [
+    {
+      "name": "White Bed",
+      "path": "https://minecraft.wiki/images/White_Bed_%28texture%29.png?b743c"
+    },
+    {
+      "name": "Light Gray Bed",
+      "path": "https://minecraft.wiki/images/Light_Gray_Bed_%28texture%29.png?3ad94"
+    },
+    {
+      "name": "Gray Bed",
+      "path": "https://minecraft.wiki/images/Gray_Bed_%28texture%29.png?8702d"
+    },
+    {
+      "name": "Black Bed",
+      "path": "https://minecraft.wiki/images/Black_Bed_%28texture%29.png?8ae4a"
+    },
+    {
+      "name": "Brown Bed",
+      "path": "https://minecraft.wiki/images/Brown_Bed_%28texture%29.png?e4766"
+    },
+    {
+      "name": "Red Bed",
+      "path": "https://minecraft.wiki/images/Red_Bed_%28texture%29.png?8e4c6"
+    },
+    {
+      "name": "Orange Bed",
+      "path": "https://minecraft.wiki/images/Orange_Bed_%28texture%29.png?a2946"
+    },
+    {
+      "name": "Yellow Bed",
+      "path": "https://minecraft.wiki/images/Yellow_Bed_%28texture%29.png?35d11"
+    },
+    {
+      "name": "Lime Bed",
+      "path": "https://minecraft.wiki/images/Lime_Bed_%28texture%29.png?0bf48"
+    },
+    {
+      "name": "Green Bed",
+      "path": "https://minecraft.wiki/images/Green_Bed_%28texture%29.png?7d806"
+    },
+    {
+      "name": "Cyan Bed",
+      "path": "https://minecraft.wiki/images/Cyan_Bed_%28texture%29.png?531e0"
+    },
+    {
+      "name": "Light Blue Bed",
+      "path": "https://minecraft.wiki/images/Light_Blue_Bed_%28texture%29.png?0c878"
+    },
+    {
+      "name": "Blue Bed",
+      "path": "https://minecraft.wiki/images/Blue_Bed_%28texture%29.png?f64cc"
+    },
+    {
+      "name": "Purple Bed",
+      "path": "https://minecraft.wiki/images/Purple_Bed_%28texture%29.png?38131"
+    },
+    {
+      "name": "Magenta Bed",
+      "path": "https://minecraft.wiki/images/Magenta_Bed_%28texture%29.png?c10de"
+    },
+    {
+      "name": "Pink Bed",
+      "path": "https://minecraft.wiki/images/Pink_Bed_%28texture%29.png?d9bff"
+    },
+    {
+      "name": "Oak Sign",
+      "path": "https://minecraft.wiki/images/Sign_%28texture%29_JE1.png?a860c"
+    },
+    {
+      "name": "Spruce Sign",
+      "path": "https://minecraft.wiki/images/Spruce_Sign_%28texture%29.png?7e1bf"
+    },
+    {
+      "name": "Birch Sign",
+      "path": "https://minecraft.wiki/images/Birch_Sign_%28texture%29.png?437dc"
+    },
+    {
+      "name": "Jungle Sign",
+      "path": "https://minecraft.wiki/images/Jungle_Sign_%28texture%29.png?382d8"
+    },
+    {
+      "name": "Acacia Sign",
+      "path": "https://minecraft.wiki/images/Acacia_Sign_%28texture%29.png?9a680"
+    },
+    {
+      "name": "Dark Oak Sign",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Sign_%28texture%29.png?239d1"
+    },
+    {
+      "name": "Mangrove Sign",
+      "path": "https://minecraft.wiki/images/Mangrove_Sign_%28texture%29.png?05b20"
+    },
+    {
+      "name": "Cherry Sign",
+      "path": "https://minecraft.wiki/images/Cherry_Sign_%28texture%29.png?6742b"
+    },
+    {
+      "name": "Bamboo Sign",
+      "path": "https://minecraft.wiki/images/Bamboo_Sign_%28texture%29.png?f196c"
+    },
+    {
+      "name": "Crimson Sign",
+      "path": "https://minecraft.wiki/images/Crimson_Sign_%28texture%29.png?8e015"
+    },
+    {
+      "name": "Warped Sign",
+      "path": "https://minecraft.wiki/images/Warped_Sign_%28texture%29.png?a8a3c"
+    },
+    {
+      "name": "Oak Hanging Sign",
+      "path": "https://minecraft.wiki/images/Oak_Hanging_Sign_%28texture%29_JE1_BE1.png?4d38c"
+    },
+    {
+      "name": "Spruce Hanging Sign",
+      "path": "https://minecraft.wiki/images/Spruce_Hanging_Sign_%28texture%29_JE1_BE1.png?2c4e9"
+    },
+    {
+      "name": "Birch Hanging Sign",
+      "path": "https://minecraft.wiki/images/Birch_Hanging_Sign_%28texture%29_JE1_BE1.png?4b1e0"
+    },
+    {
+      "name": "Jungle Hanging Sign",
+      "path": "https://minecraft.wiki/images/Jungle_Hanging_Sign_%28texture%29_JE1_BE1.png?9f3b3"
+    },
+    {
+      "name": "Acacia Hanging Sign",
+      "path": "https://minecraft.wiki/images/Acacia_Hanging_Sign_%28texture%29_JE1_BE1.png?8febc"
+    },
+    {
+      "name": "Dark Oak Hanging Sign",
+      "path": "https://minecraft.wiki/images/Dark_Oak_Hanging_Sign_%28texture%29_JE1_BE1.png?869d9"
+    },
+    {
+      "name": "Mangrove Hanging Sign",
+      "path": "https://minecraft.wiki/images/Mangrove_Hanging_Sign_%28texture%29_JE1_BE1.png?59da1"
+    },
+    {
+      "name": "Cherry Hanging Sign",
+      "path": "https://minecraft.wiki/images/Cherry_Hanging_Sign_%28texture%29_JE1_BE1.png?83547"
+    },
+    {
+      "name": "Bamboo Hanging Sign",
+      "path": "https://minecraft.wiki/images/Bamboo_Hanging_Sign_%28texture%29_JE1_BE1.png?1ceca"
+    },
+    {
+      "name": "Crimson Hanging Sign",
+      "path": "https://minecraft.wiki/images/Crimson_Hanging_Sign_%28texture%29_JE1_BE1.png?56a4d"
+    },
+    {
+      "name": "Warped Hanging Sign",
+      "path": "https://minecraft.wiki/images/Warped_Hanging_Sign_%28texture%29_JE1_BE1.png?4032f"
+    },
+    {
+      "name": "Large Chest",
+      "path": "https://minecraft.wiki/images/Large_Chest_%28texture%29_JE2.png?f114c"
+    },
+    {
+      "name": "Trapped Large Chest",
+      "path": "https://minecraft.wiki/images/Trapped_Large_Chest_%28texture%29_JE1_BE1.png?a9f42"
+    },
+    {
+      "name": "Conduit",
+      "path": "https://minecraft.wiki/images/Conduit_%28texture%29_JE1.png?ec210"
+    },
+    {
+      "name": "End Portal",
+      "path": "https://minecraft.wiki/images/End_Portal_%28texture%29.png?11594"
+    },
+    {
+      "name": "Slate",
+      "path": "https://minecraft.wiki/images/Chalkboard_Slate_%28texture%29.png?b04bc"
+    },
+    {
+      "name": "Poster",
+      "path": "https://minecraft.wiki/images/Chalkboard_Poster_%28texture%29.png?e77ce"
+    },
+    {
+      "name": "Board",
+      "path": "https://minecraft.wiki/images/Chalkboard_Board_%28texture%29.png?fe91d"
+    }
+  ],
+  "Decorated Pot Textures": [
+    {
+      "name": "Decorated Pot",
+      "path": "https://minecraft.wiki/images/Decorated_Pot_%28base_texture%29.png?00ff1"
+    },
+    {
+      "name": "Angler Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Angler_Pottery_Pattern_%28texture%29.png?0587a"
+    },
+    {
+      "name": "Archer Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Archer_Pottery_Pattern_%28texture%29.png?a528e"
+    },
+    {
+      "name": "Arms Up Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Arms_Up_Pottery_Pattern_%28texture%29.png?e6013"
+    },
+    {
+      "name": "Blade Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Blade_Pottery_Pattern_%28texture%29.png?e6013"
+    },
+    {
+      "name": "Brewer Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Brewer_Pottery_Pattern_%28texture%29.png?01a33"
+    },
+    {
+      "name": "Burn Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Burn_Pottery_Pattern_%28texture%29.png?e31e0"
+    },
+    {
+      "name": "Danger Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Danger_Pottery_Pattern_%28texture%29.png?e31e0"
+    },
+    {
+      "name": "Explorer Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Explorer_Pottery_Pattern_%28texture%29.png?1babd"
+    },
+    {
+      "name": "Friend Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Friend_Pottery_Pattern_%28texture%29.png?d96fe"
+    },
+    {
+      "name": "Heart Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Heart_Pottery_Pattern_%28texture%29.png?d96fe"
+    },
+    {
+      "name": "Heartbreak Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Heartbreak_Pottery_Pattern_%28texture%29.png?821e7"
+    },
+    {
+      "name": "Howl Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Howl_Pottery_Pattern_%28texture%29.png?caa15"
+    },
+    {
+      "name": "Miner Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Miner_Pottery_Pattern_%28texture%29.png?d9801"
+    },
+    {
+      "name": "Mourner Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Mourner_Pottery_Pattern_%28texture%29.png?d9801"
+    },
+    {
+      "name": "Plenty Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Plenty_Pottery_Pattern_%28texture%29.png?149dd"
+    },
+    {
+      "name": "Prize Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Prize_Pottery_Pattern_%28texture%29.png?1d151"
+    },
+    {
+      "name": "Sheaf Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Sheaf_Pottery_Pattern_%28texture%29.png?1d151"
+    },
+    {
+      "name": "Shelter Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Shelter_Pottery_Pattern_%28texture%29.png?3d4e3"
+    },
+    {
+      "name": "Skull Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Skull_Pottery_Pattern_%28texture%29.png?fb6e2"
+    },
+    {
+      "name": "Snort Pottery Pattern",
+      "path": "https://minecraft.wiki/images/Snort_Pottery_Pattern_%28texture%29.png?0587a"
+    }
+  ],
+  "Banner Textures": [
+    {
+      "name": "Banner",
+      "path": "https://minecraft.wiki/images/Banner_Base_%28texture%29.png?ade42"
+    }
+  ],
+  "Block Visual Effect Textures": [
+    {
+      "name": "End Gateway",
+      "path": "https://minecraft.wiki/images/End_Gateway_Beam_%28texture%29_JE1.png?f15d2"
+    }
+  ],
+  "Programmer Art": [],
+  "Pre-Classic": [
+    {
+      "name": "Planks",
+      "path": "https://minecraft.wiki/images/Oak_Planks_%28texture%29_JE1.png?8a4e2"
+    },
+    {
+      "name": "Sapling",
+      "path": "https://minecraft.wiki/images/Oak_Sapling_%28texture%29_JE1.png?85132"
+    }
+  ],
+  "Classic": [
+    {
+      "name": "0.0.15a",
+      "path": "https://minecraft.wiki/images/Oak_Log_%28texture%29_JE2_BE1.png?67b73"
+    },
+    {
+      "name": "Leaves",
+      "path": "https://minecraft.wiki/images/Oak_Leaves_%28texture%29_JE2.png?e3304"
+    },
+    {
+      "name": "Cloth",
+      "path": "https://minecraft.wiki/images/White_Wool_%28texture%29_JE1_BE1.png?eb12f"
+    },
+    {
+      "name": "Rose",
+      "path": "https://minecraft.wiki/images/Rose_%28texture%29_JE1.png?ac40d"
+    }
+  ],
+  "Indev": [],
+  "Infdev": [
+    {
+      "name": "Door",
+      "path": "https://minecraft.wiki/images/Oak_Door_%28right_top_texture%29_JE1.png?d644e"
+    },
+    {
+      "name": "Fast Graphics",
+      "path": "https://minecraft.wiki/images/Fast_Oak_Leaves_%28texture%29_JE1.png?5efda"
+    },
+    {
+      "name": "Spawner",
+      "path": "https://minecraft.wiki/images/Spawner_%28texture%29_JE1_BE1.png?48099"
+    }
+  ],
+  "Alpha": [
+    {
+      "name": "Redstone",
+      "path": "https://minecraft.wiki/images/Off_Redstone_Wire_Line_%28texture%29_JE1.png?960cb"
+    },
+    {
+      "name": "Snowy Grass Block",
+      "path": "https://minecraft.wiki/images/Snowy_Grass_Block_%28side_texture%29_JE1_BE1.png?08245"
+    }
+  ],
+  "Beta": [
+    {
+      "name": "Wool",
+      "path": "https://minecraft.wiki/images/Light_Gray_Wool_%28texture%29_JE1_BE1.png?d3cfd"
+    },
+    {
+      "name": "Bed",
+      "path": "https://minecraft.wiki/images/Bed_%28top_texture%29_JE1_BE1.png?03fc8"
+    },
+    {
+      "name": "Trapdoor",
+      "path": "https://minecraft.wiki/images/Oak_Trapdoor_%28texture%29_JE1_BE1.png?f3d35"
+    },
+    {
+      "name": "Sticky Piston",
+      "path": "https://minecraft.wiki/images/Sticky_Piston_Head_%28texture%29_JE1_BE1.png?6d0fc"
+    },
+    {
+      "name": "St",
+      "path": "https://minecraft.wiki/images/Stem_%28texture%29_JE1_BE1.png?434df"
+    }
+  ],
+  "Removed textures": [
+    {
+      "name": "info_update2",
+      "path": "https://minecraft.wiki/images/Info_update2_%28texture%29_BE1.png?43bfb"
+    },
+    {
+      "name": "Gear",
+      "path": "https://minecraft.wiki/images/Gear_%28texture%29_JE1.png?7a82d"
+    },
+    {
+      "name": "Fish Barrel",
+      "path": "https://minecraft.wiki/images/Fish_Barrel_%28texture%29_BE1.png?af629"
+    },
+    {
+      "name": "Empty Barrel",
+      "path": "https://minecraft.wiki/images/Empty_Barrel_%28texture%29_BE1.png?e8328"
+    },
+    {
+      "name": "Chair",
+      "path": "https://minecraft.wiki/images/Chair_%28texture%29_JE1.png?cfc44"
+    },
+    {
+      "name": "Paeonia",
+      "path": "https://minecraft.wiki/images/Paeonia_%28texture%29_JE1.png?d0515"
+    },
+    {
+      "name": "Ruby Ore",
+      "path": "https://minecraft.wiki/images/Emerald_Ore_%28texture%29_JE1.png?b246a"
+    },
+    {
+      "name": "Wax Block",
+      "path": "https://minecraft.wiki/images/Wax_Block_%28texture%29_JE1.png?2695e"
+    },
+    {
+      "name": "Classic",
+      "path": "https://minecraft.wiki/images/Unknown_1_%28texture%29_JE1.png?dd253"
+    },
+    {
+      "name": "Beta",
+      "path": "https://minecraft.wiki/images/Unknown_4_%28texture%29_JE1.png?de908"
+    },
+    {
+      "name": "Footprints",
+      "path": "https://minecraft.wiki/images/Unknown_3_%28texture%29_JE1_BE1.png?bc18b"
+    },
+    {
+      "name": "Village Border Edge",
+      "path": "https://minecraft.wiki/images/Village_Border_Edge_%28texture%29_JE1_BE1.png?b370f"
+    },
+    {
+      "name": "Village Border Corner",
+      "path": "https://minecraft.wiki/images/Village_Border_Corner_%28texture%29_JE1.png?7d7e6"
+    },
+    {
+      "name": "Generic Dead Coral Block",
+      "path": "https://minecraft.wiki/images/Dead_Coral_Block_%28texture%29_JE1.png?f735c"
+    },
+    {
+      "name": "Root Vines",
+      "path": "https://minecraft.wiki/images/Root_Vines_%28head_texture%29_JE1.png?cd7eb"
+    },
+    {
+      "name": "Coral Block",
+      "path": "https://minecraft.wiki/images/Coral_Block_%28texture%29_JE0.png?9d0bb"
+    },
+    {
+      "name": "Grass",
+      "path": "https://minecraft.wiki/images/Unknown_Grass_%28texture%29_JE1_BE1.png?7c263"
+    },
+    {
+      "name": "Gold Block",
+      "path": "https://minecraft.wiki/images/Misaligned_Gold_Corner_1_%28texture%29_JE1.png?10784"
+    },
+    {
+      "name": "Green Ring Block",
+      "path": "https://minecraft.wiki/images/Green_Ring_%28texture%29_LCE1.png?694a3"
+    },
+    {
+      "name": "Yellow Ring Block",
+      "path": "https://minecraft.wiki/images/Yellow_Ring_%28texture%29_LCE1.png?37223"
+    },
+    {
+      "name": "Blue Ring Block",
+      "path": "https://minecraft.wiki/images/Blue_Ring_%28texture%29_LCE1.png?bf1c7"
+    }
+  ],
+  "Joke features": [
+    {
+      "name": "An Ant",
+      "path": "https://minecraft.wiki/images/An_Ant_%28front_texture%29_JE1.png?bb40d"
+    },
+    {
+      "name": "Box of Infinite Books",
+      "path": "https://minecraft.wiki/images/Red_Box_of_Infinite_Books_%28texture%29_JE1.png?6bbe2"
+    },
+    {
+      "name": "USB Charger Block",
+      "path": "https://minecraft.wiki/images/USB_Charger_Block_%28top_texture%29_JE1.png?61213"
+    },
+    {
+      "name": "Torch (Burnt-out)",
+      "path": "https://minecraft.wiki/images/Off_Torch_%28texture%29_JE1.png?39e66"
+    },
+    {
+      "name": "Funky Portal",
+      "path": "https://minecraft.wiki/images/Funky_Portal_%28texture%29_JE1.png?5c654"
+    },
+    {
+      "name": "Cursor",
+      "path": "https://minecraft.wiki/images/Cursor_%28texture%29_JE1.png?9c9f2"
+    },
+    {
+      "name": "Obey Sign",
+      "path": "https://minecraft.wiki/images/Sign2.png?426b2"
+    }
+  ]
+}
