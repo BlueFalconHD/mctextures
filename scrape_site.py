@@ -3,6 +3,8 @@ import requests
 import re
 import json
 
+scope = 0
+
 # Classes for Texture and Category
 class Texture:
     def __init__(self, path, name):
@@ -24,6 +26,9 @@ class Category:
         return {
     self.title: [texture.to_json() for texture in self.items]
     }
+
+def my_print(t):
+    print(("    " * scope) + t)
 
 # Function to get the previous heading element
 def get_previous_heading_element(element):
@@ -79,6 +84,10 @@ soup = BeautifulSoup(response.text, 'html.parser')
 category_elements = soup.select(".gallery")
 categories = []
 
+my_print("=== GALLERIES ===")
+
+scope += 1
+
 # Extract information and create Texture and Category objects
 for e in category_elements:
     if len(e.contents) > 0:
@@ -89,7 +98,7 @@ for e in category_elements:
         else:
             section_title = section_title_element.text.strip() if section_title_element else ""
 
-        print(f"# {section_title}")
+        my_print(f"# {section_title}")
         
         """
         
@@ -105,7 +114,8 @@ for e in category_elements:
                             src ; texture url
         
         """
-        
+
+        scope += 1
         if item_elements:
             items = []
             for elem in item_elements:
@@ -115,19 +125,28 @@ for e in category_elements:
                 if texture_name.text != None:
                     if texture_src_url != None:
                         texture_url = transform_image_url(texture_src_url)
-                        print(f"    {texture_name.text.strip()}    ->    ({texture_url})")
+                        my_print(f"{texture_name.text.strip()}    ->    ({texture_url})")
                         items.append(Texture(texture_url, texture_name.text.strip()))
                     else:
-                        print(f"One element in section {section_title} has no src url.")
+                        my_print(f"One element in section {section_title} has no src url.")
                 else:
-                    print(f"One element in section {section_title} has no name.")
+                    my_print(f"One element in section {section_title} has no name.")
     
             if items:
                 category = Category(section_title, items)
                 categories.append(category)
 
+        scope -= 1
+
+scope -= 1
+
+my_print("=== MERGING DUPLICATE GALLERIES ===")
+
 # Merge categories with the same title
 categories = merge_categories(categories)
+
+if categories == None:
+    my_print("~~~~~~~~ CATEGORIES == NONE! ~~~~~~~~~")
 
 # Convert categories to JSON
 categories_json = {cat.title: [texture.to_json() for texture in cat.items] for cat in categories}
