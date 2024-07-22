@@ -109,18 +109,18 @@ for e in category_elements:
         if item_elements:
             items = []
             for elem in item_elements:
-                texture_name = elem.select_one(".gallerytext > p > a").text.strip()
+                texture_name = elem.select_one(".gallerytext > p > a")
                 texture_src_url = elem.select_one(".thumb > span > a > img")["src"]
                 
-                if texture_name and texture_src_url:
+                if texture_name.text.strip() and texture_src_url:
                     texture_url = transform_image_url(texture_src_url)
                     print(f"[{texture_name}]({texture_url})")
                     items.append(Texture(texture_url, texture_name))
-                
-                if not texture_name:
-                    print(f"One element in section {section_title} has no name.")
-                if not texture_src_url:
-                    print(f"One element in section {section_title} has no src url.")
+                else:
+                    if not texture_name.text:
+                        print(f"One element in section {section_title} has no name.")
+                    if not texture_src_url:
+                        print(f"One element in section {section_title} has no src url.")
             if items:
                 category = Category(section_title, items)
                 categories.append(category)
