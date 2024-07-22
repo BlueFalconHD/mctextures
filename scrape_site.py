@@ -109,7 +109,7 @@ for e in category_elements:
         if item_elements:
             items = []
             for elem in item_elements:
-                texture_name = elem.select_one(".gallerytext > p > a")["innerText"]
+                texture_name = elem.select_one(".gallerytext > p > a").text.strip()
                 texture_src_url = elem.select_one(".thumb > span > a > img")["src"]
                 
                 if texture_name and texture_src_url:
