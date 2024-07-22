@@ -85,6 +85,8 @@ for e in category_elements:
         else:
             section_title = section_title_element.text.strip() if section_title_element else ""
 
+        print(f"# {section_title}"
+        
         if item_elements:
             items = []
             for elem in item_elements:
@@ -93,6 +95,7 @@ for e in category_elements:
                     name = cmg['alt']
                     path = "https://minecraft.wiki" + cmg['src']
                     path = transform_image_url(path)
+                    print(f"[{name}]({path})")
                     items.append(Texture(path, name))
             if items:
                 category = Category(section_title, items)
