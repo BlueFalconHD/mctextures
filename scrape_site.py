@@ -114,7 +114,7 @@ for e in category_elements:
                 
                 if texture_name and texture_src_url:
                     texture_url = transform_image_url(texture_src_url)
-                    print(f"[{name}]({texture_url})")
+                    print(f"[{texture_name}]({texture_url})")
                     items.append(Texture(texture_url, texture_name))
                 
                 if not texture_name:
