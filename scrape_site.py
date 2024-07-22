@@ -45,6 +45,10 @@ def merge_categories(categories):
 
 # Function to transform image URLs
 def transform_image_url(url):
+    # add the main site URL to the start
+    url = "https://minecraft.wiki" + url
+
+    
     # Find the '/thumb' part in the URL and remove it
     thumb_index = url.find('/thumb')
     if thumb_index > -1:
@@ -78,7 +82,7 @@ categories = []
 # Extract information and create Texture and Category objects
 for e in category_elements:
     if len(e.contents) > 0:
-        item_elements = e.select(".gallerybox > div")
+        item_elements = e.select(".gallerybox")
         section_title_element = get_previous_heading_element(e)
         if section_title_element and section_title_element.select(".mw-headline"):
             section_title = section_title_element.select(".mw-headline")[0].text.strip()
@@ -87,16 +91,36 @@ for e in category_elements:
 
         print(f"# {section_title}")
         
+        """
+        
+        .gallerybox
+            .gallerytext
+                <p>
+                    <a>
+                        innerText ; name
+            .thumb
+                <span>
+                    <a>
+                        <img>
+                            src ; texture url
+        
+        """
+        
         if item_elements:
             items = []
             for elem in item_elements:
-                cmg = elem.select_one(".thumb > div > a.image > img")
-                if cmg:
-                    name = cmg['alt']
-                    path = "https://minecraft.wiki" + cmg['src']
-                    path = transform_image_url(path)
-                    print(f"[{name}]({path})")
-                    items.append(Texture(path, name))
+                texture_name = elem.select_one(".gallerytext > p > a")["innerText"]
+                texture_src_url = elem.select_one(".thumb > span > a > img")["src"]
+                
+                if texture_name and texture_src_url:
+                    texture_url = transform_image_url(texture_src_url)
+                    print(f"[{name}]({texture_url})")
+                    items.append(Texture(texture_url, texture_name))
+                
+                if not texture_name:
+                    print(f"One element in section {section_title} has no name.")
+                if not texture_src_url:
+                    print(f"One element in section {section_title} has no src url.")
             if items:
                 category = Category(section_title, items)
                 categories.append(category)
