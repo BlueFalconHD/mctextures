@@ -85,7 +85,7 @@ for e in category_elements:
         else:
             section_title = section_title_element.text.strip() if section_title_element else ""
 
-        print(f"# {section_title}"
+        print(f"# {section_title}")
         
         if item_elements:
             items = []
