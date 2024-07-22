@@ -115,7 +115,7 @@ for e in category_elements:
                 if texture_name.text != None:
                     if texture_src_url != None:
                         texture_url = transform_image_url(texture_src_url)
-                        print(f"[{texture_name.text.strip()}]({texture_url})")
+                        print(f"    {texture_name.text.strip()}    ->    ({texture_url})")
                         items.append(Texture(texture_url, texture_name.text.strip()))
                     else:
                         print(f"One element in section {section_title} has no src url.")
