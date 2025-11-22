@@ -155,6 +155,7 @@ a:active { color: var(--link-active) }
 
 .texture > a > img {
     width: 96px;
+    image-rendering: pixelated;
 }
 
 .texture > a {
